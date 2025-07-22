@@ -1,0 +1,2394 @@
+{
+    "rows": [
+        {
+            "id": "showcase_new_products",
+            "url": "https://www.holley.com/showcase/new_products/",
+            "text": "New & Hot Products"
+        },
+        {
+            "id": "products_exhaust",
+            "url": "https://www.holley.com/products/exhaust/",
+            "text": "Exhaust"
+        },
+        {
+            "id": "products_exhaust_exhaust_systems",
+            "url": "https://www.holley.com/products/exhaust/exhaust_systems/",
+            "text": "Exhaust Systems"
+        },
+        {
+            "id": "products_exhaust_headers_and_exhaust_manifolds",
+            "url": "https://www.holley.com/products/exhaust/headers_and_exhaust_manifolds/",
+            "text": "Headers and Exhaust Manifolds"
+        },
+        {
+            "id": "products_exhaust_midpipe-exhaust-systems",
+            "url": "https://www.holley.com/products/exhaust/midpipe-exhaust-systems/",
+            "text": "Midpipes"
+        },
+        {
+            "id": "products_exhaust_resonator-delete-kits",
+            "url": "https://www.holley.com/products/exhaust/resonator-delete-kits/",
+            "text": "Resonator Delete Kits"
+        },
+        {
+            "id": "products_exhaust_builder_components",
+            "url": "https://www.holley.com/products/exhaust/builder_components/",
+            "text": "Builder Components"
+        },
+        {
+            "id": "products_exhaust_catalytic_converter",
+            "url": "https://www.holley.com/products/exhaust/catalytic_converter/",
+            "text": "Catalytic Converters"
+        },
+        {
+            "id": "products_exhaust_cut_outs_and_multi_mode_kits",
+            "url": "https://www.holley.com/products/exhaust/cut_outs_and_multi_mode_kits/",
+            "text": "Cut-Outs and Multi-Mode Kits"
+        },
+        {
+            "id": "products_exhaust_exhaust_tips",
+            "url": "https://www.holley.com/products/exhaust/exhaust_tips/",
+            "text": "Exhaust Tips"
+        },
+        {
+            "id": "products_exhaust_mufflers",
+            "url": "https://www.holley.com/products/exhaust/mufflers/",
+            "text": "Performance Mufflers"
+        },
+        {
+            "id": "products_exhaust_x_pipes_y_pipes_and_h_pipes",
+            "url": "https://www.holley.com/products/exhaust/x_pipes_y_pipes_and_h_pipes/",
+            "text": "X Pipes Y Pipes and H Pipes"
+        },
+        {
+            "id": "products_nitrous",
+            "url": "https://www.holley.com/products/nitrous/",
+            "text": "Nitrous"
+        },
+        {
+            "id": "products_nitrous_efi_systems",
+            "url": "https://www.holley.com/products/nitrous/efi_systems/",
+            "text": "EFI Systems"
+        },
+        {
+            "id": "products_nitrous_carbureted_plate_systems",
+            "url": "https://www.holley.com/products/nitrous/carbureted_plate_systems/",
+            "text": "Carbureted Plate Systems"
+        },
+        {
+            "id": "products_nitrous_diesel_systems",
+            "url": "https://www.holley.com/products/nitrous/diesel_systems/",
+            "text": "Diesel Systems"
+        },
+        {
+            "id": "products_nitrous_powersport_systems",
+            "url": "https://www.holley.com/products/nitrous/powersport_systems/",
+            "text": "Powersport Nitrous Systems"
+        },
+        {
+            "id": "products_nitrous_bottles_and_accessories",
+            "url": "https://www.holley.com/products/nitrous/bottles_and_accessories/",
+            "text": "Bottles and Accessories"
+        },
+        {
+            "id": "products_nitrous_controllers_and_accessories",
+            "url": "https://www.holley.com/products/nitrous/controllers_and_accessories/",
+            "text": "Controllers and Accessories"
+        },
+        {
+            "id": "products_nitrous_direct_port_systems",
+            "url": "https://www.holley.com/products/nitrous/direct_port_systems/",
+            "text": "Direct Port Systems"
+        },
+        {
+            "id": "products_nitrous_distribution_blocks_and_fittings",
+            "url": "https://www.holley.com/products/nitrous/distribution_blocks_and_fittings/",
+            "text": "Distribution Blocks, Filters, Adapters and Fittings"
+        },
+        {
+            "id": "products_nitrous_electrical_and_wiring",
+            "url": "https://www.holley.com/products/nitrous/electrical_and_wiring/",
+            "text": "Electrical and Wiring"
+        },
+        {
+            "id": "products_nitrous_fuel_pumps_and_regulators",
+            "url": "https://www.holley.com/products/nitrous/fuel_pumps_and_regulators/",
+            "text": "Fuel Pumps and Regulators"
+        },
+        {
+            "id": "products_nitrous_gauges",
+            "url": "https://www.holley.com/products/nitrous/gauges/",
+            "text": "Gauges"
+        },
+        {
+            "id": "products_nitrous_hose_lines_and_tubing",
+            "url": "https://www.holley.com/products/nitrous/hose_lines_and_tubing/",
+            "text": "Hose Lines and Tubing"
+        },
+        {
+            "id": "products_nitrous_intercooler_sprayers",
+            "url": "https://www.holley.com/products/nitrous/intercooler_sprayers/",
+            "text": "Intercooler Sprayers"
+        },
+        {
+            "id": "products_nitrous_mounting_brackets",
+            "url": "https://www.holley.com/products/nitrous/mounting_brackets/",
+            "text": "Microswitch and Solenoid Mounting Brackets"
+        },
+        {
+            "id": "products_nitrous_nos_jets",
+            "url": "https://www.holley.com/products/nitrous/nos_jets/",
+            "text": "NOS Jets"
+        },
+        {
+            "id": "products_nitrous_nitrous_blowdown_hoses_and_tubes",
+            "url": "https://www.holley.com/products/nitrous/nitrous_blowdown_hoses_and_tubes/",
+            "text": "Nitrous Blowdown Hoses and Tubes"
+        },
+        {
+            "id": "products_nitrous_service_replacement_parts",
+            "url": "https://www.holley.com/products/nitrous/service_replacement_parts/",
+            "text": "Nitrous Plates"
+        },
+        {
+            "id": "products_nitrous_nozzles",
+            "url": "https://www.holley.com/products/nitrous/nozzles/",
+            "text": "Nozzles"
+        },
+        {
+            "id": "products_nitrous_purge_kits",
+            "url": "https://www.holley.com/products/nitrous/purge_kits/",
+            "text": "Purge Kits"
+        },
+        {
+            "id": "products_nitrous_refill_kits_and_components",
+            "url": "https://www.holley.com/products/nitrous/refill_kits_and_components/",
+            "text": "Refill Kits and Components"
+        },
+        {
+            "id": "products_nitrous_solenoids_and_solenoid_service_parts",
+            "url": "https://www.holley.com/products/nitrous/solenoids_and_solenoid_service_parts/",
+            "text": "Solenoids and Solenoid Service Parts"
+        },
+        {
+            "id": "products_nitrous_tools",
+            "url": "https://www.holley.com/products/nitrous/tools/",
+            "text": "Tools"
+        },
+        {
+            "id": "products_fuel_systems",
+            "url": "https://www.holley.com/products/fuel_systems/",
+            "text": "Air & Fuel Delivery"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/",
+            "text": "EFI - Fuel Injection"
+        },
+        {
+            "id": "products_fuel_systems_carburetors",
+            "url": "https://www.holley.com/products/fuel_systems/carburetors/",
+            "text": "Carburetors"
+        },
+        {
+            "id": "products_fuel_systems_carburetor_components",
+            "url": "https://www.holley.com/products/fuel_systems/carburetor_components/",
+            "text": "Carburetor Components"
+        },
+        {
+            "id": "products_fuel_systems_fuel_pumps_regulators_and_filters",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_pumps_regulators_and_filters/",
+            "text": "Fuel Pumps Regulators and Filters"
+        },
+        {
+            "id": "products_fuel_systems_air_cleaners",
+            "url": "https://www.holley.com/products/fuel_systems/air_cleaners/",
+            "text": "Air Cleaners"
+        },
+        {
+            "id": "products_fuel_systems_air_scoop",
+            "url": "https://www.holley.com/products/fuel_systems/air_scoop/",
+            "text": "Air Scoops"
+        },
+        {
+            "id": "products_fuel_systems_cold_air_intake",
+            "url": "https://www.holley.com/products/fuel_systems/cold_air_intake/",
+            "text": "Cold Air Intake"
+        },
+        {
+            "id": "products_fuel_systems_fuel_system_kits",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_system_kits/",
+            "text": "Fuel System Kits"
+        },
+        {
+            "id": "products_fuel_systems_fuel_tanks",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_tanks/",
+            "text": "Fuel Tanks and Fuel Cells"
+        },
+        {
+            "id": "products_fuel_systems_hydramat",
+            "url": "https://www.holley.com/products/fuel_systems/hydramat/",
+            "text": "HydraMat"
+        },
+        {
+            "id": "products_exterior",
+            "url": "https://www.holley.com/products/exterior/",
+            "text": "Exterior"
+        },
+        {
+            "id": "products_exterior_body_and_rust_repair",
+            "url": "https://www.holley.com/products/exterior/body_and_rust_repair/",
+            "text": "Body & Rust Repair"
+        },
+        {
+            "id": "products_exterior_long_bed_to_short_bed_conversions",
+            "url": "https://www.holley.com/products/exterior/long_bed_to_short_bed_conversions/",
+            "text": "Long Bed to Short Bed Conversions"
+        },
+        {
+            "id": "products_exterior_bed_mats",
+            "url": "https://www.holley.com/products/exterior/bed_mats/",
+            "text": "Bed Mats"
+        },
+        {
+            "id": "products_exterior_bumper",
+            "url": "https://www.holley.com/products/exterior/bumper/",
+            "text": "Bumpers"
+        },
+        {
+            "id": "products_exterior_car_covers",
+            "url": "https://www.holley.com/products/exterior/car_covers/",
+            "text": "Car Covers"
+        },
+        {
+            "id": "products_exterior_convertible_tops_and_components",
+            "url": "https://www.holley.com/products/exterior/convertible_tops_and_components/",
+            "text": "Convertible Tops and Components"
+        },
+        {
+            "id": "products_exterior_decklid_panels",
+            "url": "https://www.holley.com/products/exterior/decklid_panels/",
+            "text": "Decklid Panels"
+        },
+        {
+            "id": "products_exterior_doors",
+            "url": "https://www.holley.com/products/exterior/doors/",
+            "text": "Doors"
+        },
+        {
+            "id": "products_exterior_fenders",
+            "url": "https://www.holley.com/products/exterior/fenders/",
+            "text": "Fenders"
+        },
+        {
+            "id": "products_exterior_firewalls",
+            "url": "https://www.holley.com/products/exterior/firewalls/",
+            "text": "Firewall, Cowl, and Front Unibody"
+        },
+        {
+            "id": "products_exterior_floor_pan",
+            "url": "https://www.holley.com/products/exterior/floor_pan/",
+            "text": "Floor Pan and Frame"
+        },
+        {
+            "id": "products_exterior_fuel_doors",
+            "url": "https://www.holley.com/products/exterior/fuel_doors/",
+            "text": "Fuel Doors"
+        },
+        {
+            "id": "products_exterior_graphic_kits",
+            "url": "https://www.holley.com/products/exterior/graphic_kits/",
+            "text": "Graphic Kits"
+        },
+        {
+            "id": "products_exterior_grilles",
+            "url": "https://www.holley.com/products/exterior/grilles/",
+            "text": "Grilles"
+        },
+        {
+            "id": "products_exterior_hood",
+            "url": "https://www.holley.com/products/exterior/hood/",
+            "text": "Hood"
+        },
+        {
+            "id": "products_exterior_lighting",
+            "url": "https://www.holley.com/products/exterior/lighting/",
+            "text": "Lighting"
+        },
+        {
+            "id": "products_exterior_mini_tub_kits",
+            "url": "https://www.holley.com/products/exterior/mini_tub_kits/",
+            "text": "Mini Tub Kits"
+        },
+        {
+            "id": "products_exterior_plate_frames_and_accessories",
+            "url": "https://www.holley.com/products/exterior/plate_frames_and_accessories/",
+            "text": "Plate Frames and Accessories"
+        },
+        {
+            "id": "products_exterior_quarter_panels",
+            "url": "https://www.holley.com/products/exterior/quarter_panels/",
+            "text": "Quarter Panels"
+        },
+        {
+            "id": "products_exterior_radiator_supports",
+            "url": "https://www.holley.com/products/exterior/radiator_supports/",
+            "text": "Radiator Supports"
+        },
+        {
+            "id": "products_exterior_rear_spoilers",
+            "url": "https://www.holley.com/products/exterior/rear_spoilers/",
+            "text": "Rear Spoilers"
+        },
+        {
+            "id": "products_exterior_rocker_panel",
+            "url": "https://www.holley.com/products/exterior/rocker_panel/",
+            "text": "Rocker Panel"
+        },
+        {
+            "id": "products_exterior_roof_panel",
+            "url": "https://www.holley.com/products/exterior/roof_panel/",
+            "text": "Roof Panel"
+        },
+        {
+            "id": "products_exterior_trim_and_moldings",
+            "url": "https://www.holley.com/products/exterior/trim_and_moldings/",
+            "text": "Trim and Moldings"
+        },
+        {
+            "id": "products_exterior_truck_bed_and_parts",
+            "url": "https://www.holley.com/products/exterior/truck_bed_and_parts/",
+            "text": "Truck Bed & Parts"
+        },
+        {
+            "id": "products_exterior_truck_cab_and_parts",
+            "url": "https://www.holley.com/products/exterior/truck_cab_and_parts/",
+            "text": "Truck Cab & Parts"
+        },
+        {
+            "id": "products_exterior_valances",
+            "url": "https://www.holley.com/products/exterior/valances/",
+            "text": "Valances"
+        },
+        {
+            "id": "products_exterior_weatherstrip",
+            "url": "https://www.holley.com/products/exterior/weatherstrip/",
+            "text": "Weatherstrip"
+        },
+        {
+            "id": "products_exterior_window_and_windshield",
+            "url": "https://www.holley.com/products/exterior/window_and_windshield/",
+            "text": "Window and Windshield"
+        },
+        {
+            "id": "products_off-road",
+            "url": "https://www.holley.com/products/off-road/",
+            "text": "Off-Road"
+        },
+        {
+            "id": "products_off-road_leveling_lift_kits",
+            "url": "https://www.holley.com/products/off-road/leveling_lift_kits/",
+            "text": "Leveling & Lift Kits"
+        },
+        {
+            "id": "products_off-road_off-road_lighting",
+            "url": "https://www.holley.com/products/off-road/off-road_lighting/",
+            "text": "Off-Road Lighting"
+        },
+        {
+            "id": "products_off-road_seats",
+            "url": "https://www.holley.com/products/off-road/seats/",
+            "text": "Seats"
+        },
+        {
+            "id": "products_off-road_winches_and_recovery",
+            "url": "https://www.holley.com/products/off-road/winches_and_recovery/",
+            "text": "Winches and Recovery"
+        },
+        {
+            "id": "products_off-road_cold_air_intake",
+            "url": "https://www.holley.com/products/off-road/cold_air_intake/",
+            "text": "Cold Air Intake"
+        },
+        {
+            "id": "products_off-road_differential_covers",
+            "url": "https://www.holley.com/products/off-road/differential_covers/",
+            "text": "Differential Covers"
+        },
+        {
+            "id": "products_off-road_transmissions",
+            "url": "https://www.holley.com/products/off-road/transmissions/",
+            "text": "Engine and Transmission"
+        },
+        {
+            "id": "products_off-road_exhaust",
+            "url": "https://www.holley.com/products/off-road/exhaust/",
+            "text": "Exhaust"
+        },
+        {
+            "id": "products_off-road_fuel_systems",
+            "url": "https://www.holley.com/products/off-road/fuel_systems/",
+            "text": "Fuel Systems"
+        },
+        {
+            "id": "products_off-road_ignition_and_electrical",
+            "url": "https://www.holley.com/products/off-road/ignition_and_electrical/",
+            "text": "Ignition and Electrical"
+        },
+        {
+            "id": "products_off-road_jerry_cans",
+            "url": "https://www.holley.com/products/off-road/jerry_cans/",
+            "text": "Jerry Cans"
+        },
+        {
+            "id": "products_off-road_off_road_carburetors",
+            "url": "https://www.holley.com/products/off-road/off_road_carburetors/",
+            "text": "Off Road Carburetors"
+        },
+        {
+            "id": "products_off-road_shifters",
+            "url": "https://www.holley.com/products/off-road/shifters/",
+            "text": "Shifters and Handles"
+        },
+        {
+            "id": "parts_628-31AOR",
+            "url": "https://www.holley.com/parts/628-31AOR",
+            "text": "Spare Tire Spacer"
+        },
+        {
+            "id": "products_off-road_xdr_off_road",
+            "url": "https://www.holley.com/products/off-road/xdr_off_road/",
+            "text": "XDR Off Road"
+        },
+        {
+            "id": "products_apparel_and_collectibles",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/",
+            "text": "Apparel & Collectibles"
+        },
+        {
+            "id": "products_apparel_and_collectibles_back_to_school",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/back_to_school/",
+            "text": "Back to School"
+        },
+        {
+            "id": "products_apparel_and_collectibles_limited_edition",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/limited_edition/",
+            "text": "Limited Edition"
+        },
+        {
+            "id": "products_apparel_and_collectibles_holley_collection",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/holley_collection/",
+            "text": "Holley Collection"
+        },
+        {
+            "id": "products_apparel_and_collectibles_shirts",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/shirts/",
+            "text": "Shirts"
+        },
+        {
+            "id": "products_apparel_and_collectibles_backpacks",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/backpacks/",
+            "text": "Backpacks"
+        },
+        {
+            "id": "products_apparel_and_collectibles_banners",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/banners/",
+            "text": "Banners"
+        },
+        {
+            "id": "products_apparel_and_collectibles_decals",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/decals/",
+            "text": "Decals"
+        },
+        {
+            "id": "products_apparel_and_collectibles_drinkware",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/drinkware/",
+            "text": "Drinkware"
+        },
+        {
+            "id": "products_apparel_and_collectibles_face_masks_and_gaiters",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/face_masks_and_gaiters/",
+            "text": "Face Masks & Gaiters"
+        },
+        {
+            "id": "products_apparel_and_collectibles_headwear",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/headwear/",
+            "text": "Headwear"
+        },
+        {
+            "id": "products_apparel_and_collectibles_hitch_cover",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/hitch_cover/",
+            "text": "Hitch Cover"
+        },
+        {
+            "id": "products_apparel_and_collectibles_hoodies",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/hoodies/",
+            "text": "Hoodies"
+        },
+        {
+            "id": "products_apparel_and_collectibles_jackets",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/jackets/",
+            "text": "Jackets"
+        },
+        {
+            "id": "products_apparel_and_collectibles_ladies_apparel",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/ladies_apparel/",
+            "text": "Ladies Apparel"
+        },
+        {
+            "id": "products_apparel_and_collectibles_literature",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/literature/",
+            "text": "Literature"
+        },
+        {
+            "id": "products_apparel_and_collectibles_metal_signs",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/metal_signs/",
+            "text": "Metal Signs"
+        },
+        {
+            "id": "products_apparel_and_collectibles_misc",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/misc/",
+            "text": "Misc"
+        },
+        {
+            "id": "products_apparel_and_collectibles_pet_accessories",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/pet_accessories/",
+            "text": "Pet Accessories"
+        },
+        {
+            "id": "products_apparel_and_collectibles_polo_shirts",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/polo_shirts/",
+            "text": "Polo Shirts"
+        },
+        {
+            "id": "products_apparel_and_collectibles_sunglasses",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/sunglasses/",
+            "text": "Sunglasses"
+        },
+        {
+            "id": "products_apparel_and_collectibles_tote_bags",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/tote_bags/",
+            "text": "Tote Bags"
+        },
+        {
+            "id": "products_apparel_and_collectibles_youth_apparel",
+            "url": "https://www.holley.com/products/apparel_and_collectibles/youth_apparel/",
+            "text": "Youth Apparel"
+        },
+        {
+            "id": "products_ev_conversions",
+            "url": "https://www.holley.com/products/ev_conversions/",
+            "text": "EV Conversions"
+        },
+        {
+            "id": "products_ev_conversions_battery_management",
+            "url": "https://www.holley.com/products/ev_conversions/battery_management/",
+            "text": "Battery Management (BMS)"
+        },
+        {
+            "id": "products_ev_conversions_can_bus_expansion",
+            "url": "https://www.holley.com/products/ev_conversions/can_bus_expansion/",
+            "text": "CAN Bus Expansion"
+        },
+        {
+            "id": "products_ev_conversions_combined_charging_units",
+            "url": "https://www.holley.com/products/ev_conversions/combined_charging_units/",
+            "text": "Combined Charging (CCU)"
+        },
+        {
+            "id": "products_ev_conversions_digital_can_keypads",
+            "url": "https://www.holley.com/products/ev_conversions/digital_can_keypads/",
+            "text": "Digital CAN Keypads"
+        },
+        {
+            "id": "products_ev_conversions_swap_brackets_and_accessories",
+            "url": "https://www.holley.com/products/ev_conversions/swap_brackets_and_accessories/",
+            "text": "Conversion Brackets and Accessories"
+        },
+        {
+            "id": "products_ev_conversions_displays",
+            "url": "https://www.holley.com/products/ev_conversions/displays/",
+            "text": "Displays"
+        },
+        {
+            "id": "products_ev_conversions_high_voltage_contactors",
+            "url": "https://www.holley.com/products/ev_conversions/high_voltage_contactors/",
+            "text": "High Voltage Contactors"
+        },
+        {
+            "id": "products_ev_conversions_high_voltage_disconnects",
+            "url": "https://www.holley.com/products/ev_conversions/high_voltage_disconnects/",
+            "text": "High Voltage Disconnects"
+        },
+        {
+            "id": "products_ev_conversions_power_distribution",
+            "url": "https://www.holley.com/products/ev_conversions/power_distribution/",
+            "text": "Power Distribution (PDU)"
+        },
+        {
+            "id": "products_ev_conversions_sensors_connectors_and_accessories",
+            "url": "https://www.holley.com/products/ev_conversions/sensors_connectors_and_accessories/",
+            "text": "Sensors, Connectors, and Accessories"
+        },
+        {
+            "id": "products_ev_conversions_programmable_vehicle_control_units",
+            "url": "https://www.holley.com/products/ev_conversions/programmable_vehicle_control_units/",
+            "text": "Vehicle Controls (VCU)"
+        },
+        {
+            "id": "products_ev_conversions_wiring_harnesses",
+            "url": "https://www.holley.com/products/ev_conversions/wiring_harnesses/",
+            "text": "Wiring Harnesses"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/",
+            "text": "Plumbing AN Fittings and Hose"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_vapor_guard",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/vapor_guard/",
+            "text": "Vapor Guard"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_earls_classic_hose_and_hose_ends",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/earls_classic_hose_and_hose_ends/",
+            "text": "Earls Classic Hose and Hose Ends"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_speed-seal_and_speed-flex",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/speed-seal_and_speed-flex/",
+            "text": "Speed-Seal and Speed-Flex"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_hardline",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/hardline/",
+            "text": "Hardline"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_adapters",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/adapters/",
+            "text": "Adapters"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_hose",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/hose/",
+            "text": "All Hose Groups"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_application_specific_parts",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/application_specific_parts/",
+            "text": "Application Specific Parts"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_catch_tanks",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/catch_tanks/",
+            "text": "Catch Tanks"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_fuel_system_components",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/fuel_system_components/",
+            "text": "Fuel System Components"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_hose_ends",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/hose_ends/",
+            "text": "Hose Ends"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_hose_sleeving_and_clamps",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/hose_sleeving_and_clamps/",
+            "text": "Hose Protection, Sleeving & Clamps"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_budget_push-on",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/budget_push-on/",
+            "text": "Mr Gasket Push-On"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_budget_swivel",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/budget_swivel/",
+            "text": "Mr Gasket Swivel"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_cooling_systems",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/cooling_systems/",
+            "text": "Oil & Cooling Systems"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_plumbing_tools",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/plumbing_tools/",
+            "text": "Plumbing Tools"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_power_steering",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/power_steering/",
+            "text": "Power Steering"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_premade_hoses",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/premade_hoses/",
+            "text": "Premade Hoses"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_seals",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/seals/",
+            "text": "Seals"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_super_stock",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/super_stock/",
+            "text": "Super Stock"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_ultra_flex",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/ultra_flex/",
+            "text": "Ultra Flex"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_ultrapro",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/ultrapro/",
+            "text": "UltraPro"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_valves",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/valves/",
+            "text": "Valves"
+        },
+        {
+            "id": "products_plumbing_an_fittings_and_hose_weld_ons_and_fill_caps",
+            "url": "https://www.holley.com/products/plumbing_an_fittings_and_hose/weld_ons_and_fill_caps/",
+            "text": "Weld-ons and Fill Caps"
+        },
+        {
+            "id": "products_ac_and_heating",
+            "url": "https://www.holley.com/products/ac_and_heating/",
+            "text": "AC and Heating"
+        },
+        {
+            "id": "products_ac_and_heating_ac_condensors_and_evaporators",
+            "url": "https://www.holley.com/products/ac_and_heating/ac_condensors_and_evaporators/",
+            "text": "AC Condensors and Evaporators"
+        },
+        {
+            "id": "products_ac_and_heating_air_conditioning",
+            "url": "https://www.holley.com/products/ac_and_heating/air_conditioning/",
+            "text": "Air Conditioning Components"
+        },
+        {
+            "id": "products_ac_and_heating_air_conditioning_systems",
+            "url": "https://www.holley.com/products/ac_and_heating/air_conditioning_systems/",
+            "text": "Air Conditioning Systems"
+        },
+        {
+            "id": "products_ac_and_heating_blower_motor",
+            "url": "https://www.holley.com/products/ac_and_heating/blower_motor/",
+            "text": "Blower Motor"
+        },
+        {
+            "id": "products_ac_and_heating_controls_and_cables",
+            "url": "https://www.holley.com/products/ac_and_heating/controls_and_cables/",
+            "text": "Controls and Cables"
+        },
+        {
+            "id": "products_ac_and_heating_filler_and_delete_panels",
+            "url": "https://www.holley.com/products/ac_and_heating/filler_and_delete_panels/",
+            "text": "Filler and Delete Panels"
+        },
+        {
+            "id": "products_ac_and_heating_heater_box_and_hoses",
+            "url": "https://www.holley.com/products/ac_and_heating/heater_box_and_hoses/",
+            "text": "Heater Box and Hoses"
+        },
+        {
+            "id": "products_ac_and_heating_heater_core",
+            "url": "https://www.holley.com/products/ac_and_heating/heater_core/",
+            "text": "Heater Core"
+        },
+        {
+            "id": "products_fasteners_and_hardware",
+            "url": "https://www.holley.com/products/fasteners_and_hardware/",
+            "text": "Fasteners and Hardware"
+        },
+        {
+            "id": "products_fasteners_and_hardware_body_harware",
+            "url": "https://www.holley.com/products/fasteners_and_hardware/body_harware/",
+            "text": "Body Hardware and Plugs"
+        },
+        {
+            "id": "products_fasteners_and_hardware_engine_fasteners_and_hardware",
+            "url": "https://www.holley.com/products/fasteners_and_hardware/engine_fasteners_and_hardware/",
+            "text": "Engine Fasteners and Hardware"
+        },
+        {
+            "id": "products_fasteners_and_hardware_hood_pin_kits",
+            "url": "https://www.holley.com/products/fasteners_and_hardware/hood_pin_kits/",
+            "text": "Hood Pin Kits"
+        },
+        {
+            "id": "products_fasteners_and_hardware_magnetic_fasteners",
+            "url": "https://www.holley.com/products/fasteners_and_hardware/magnetic_fasteners/",
+            "text": "Magnetic Fasteners"
+        },
+        {
+            "id": "products_fasteners_and_hardware_quarter_turn_fasteners",
+            "url": "https://www.holley.com/products/fasteners_and_hardware/quarter_turn_fasteners/",
+            "text": "Quarter Turn Fasteners"
+        },
+        {
+            "id": "products_fasteners_and_hardware_safety_wire",
+            "url": "https://www.holley.com/products/fasteners_and_hardware/safety_wire/",
+            "text": "Safety Wire"
+        },
+        {
+            "id": "products_fasteners_and_hardware_transmission_and_drivetrain",
+            "url": "https://www.holley.com/products/fasteners_and_hardware/transmission_and_drivetrain/",
+            "text": "Transmission and Drivetrain"
+        },
+        {
+            "id": "products_fasteners_and_hardware_wheel_and_tire",
+            "url": "https://www.holley.com/products/fasteners_and_hardware/wheel_and_tire/",
+            "text": "Wheel and Tire"
+        },
+        {
+            "id": "products_performance_packages",
+            "url": "https://www.holley.com/products/performance_packages/",
+            "text": "Performance Packages"
+        },
+        {
+            "id": "products_performance_packages_euro_and_import",
+            "url": "https://www.holley.com/products/performance_packages/euro_and_import/",
+            "text": "Euro & Import"
+        },
+        {
+            "id": "products_performance_packages_truck_and_off-road",
+            "url": "https://www.holley.com/products/performance_packages/truck_and_off-road/",
+            "text": "Truck & Off-Road"
+        },
+        {
+            "id": "products_performance_packages_utv",
+            "url": "https://www.holley.com/products/performance_packages/utv/",
+            "text": "UTV"
+        },
+        {
+            "id": "products_brakes",
+            "url": "https://www.holley.com/products/brakes/",
+            "text": "Brakes"
+        },
+        {
+            "id": "products_brakes_brake_kits",
+            "url": "https://www.holley.com/products/brakes/brake_kits/",
+            "text": "Brake Kits"
+        },
+        {
+            "id": "products_brakes_pads",
+            "url": "https://www.holley.com/products/brakes/pads/",
+            "text": "Brake Pads"
+        },
+        {
+            "id": "products_brakes_rotors",
+            "url": "https://www.holley.com/products/brakes/rotors/",
+            "text": "Brake Rotors"
+        },
+        {
+            "id": "products_brakes_brake_accessories",
+            "url": "https://www.holley.com/products/brakes/brake_accessories/",
+            "text": "Brake Accessories"
+        },
+        {
+            "id": "products_brakes_brake_hoses_and_lines",
+            "url": "https://www.holley.com/products/brakes/brake_hoses_and_lines/",
+            "text": "Brake Hoses and Lines"
+        },
+        {
+            "id": "products_brakes_brake_hub_assemblies",
+            "url": "https://www.holley.com/products/brakes/brake_hub_assemblies/",
+            "text": "Brake Hub Assemblies"
+        },
+        {
+            "id": "products_brakes_brake_light_switches",
+            "url": "https://www.holley.com/products/brakes/brake_light_switches/",
+            "text": "Brake Light Switches"
+        },
+        {
+            "id": "products_brakes_calipers",
+            "url": "https://www.holley.com/products/brakes/calipers/",
+            "text": "Calipers"
+        },
+        {
+            "id": "products_brakes_disc_brake_conversions",
+            "url": "https://www.holley.com/products/brakes/disc_brake_conversions/",
+            "text": "Disc Brake Conversions"
+        },
+        {
+            "id": "products_brakes_drums_shoes_and_hardware",
+            "url": "https://www.holley.com/products/brakes/drums_shoes_and_hardware/",
+            "text": "Drums Shoes and Hardware"
+        },
+        {
+            "id": "products_brakes_dust_shields",
+            "url": "https://www.holley.com/products/brakes/dust_shields/",
+            "text": "Dust Shields"
+        },
+        {
+            "id": "products_brakes_hydraulic_brake_conversion",
+            "url": "https://www.holley.com/products/brakes/hydraulic_brake_conversion/",
+            "text": "Hydraulic Brake Conversion"
+        },
+        {
+            "id": "products_brakes_master_cylinder_conversions",
+            "url": "https://www.holley.com/products/brakes/master_cylinder_conversions/",
+            "text": "Master Cylinder Conversions"
+        },
+        {
+            "id": "products_brakes_master_cylinder_and_booster",
+            "url": "https://www.holley.com/products/brakes/master_cylinder_and_booster/",
+            "text": "Master Cylinder and Booster"
+        },
+        {
+            "id": "products_brakes_parking_brake",
+            "url": "https://www.holley.com/products/brakes/parking_brake/",
+            "text": "Parking Brake"
+        },
+        {
+            "id": "products_brakes_proportioning_valve",
+            "url": "https://www.holley.com/products/brakes/proportioning_valve/",
+            "text": "Proportioning Valves"
+        },
+        {
+            "id": "products_brakes_roll_control_and_launch_control",
+            "url": "https://www.holley.com/products/brakes/roll_control_and_launch_control/",
+            "text": "Roll Control & Launch Control"
+        },
+        {
+            "id": "products_fluids_and_additives",
+            "url": "https://www.holley.com/products/fluids_and_additives/",
+            "text": "Fluids & Additives"
+        },
+        {
+            "id": "products_restoration",
+            "url": "https://www.holley.com/products/restoration/",
+            "text": "Restoration"
+        },
+        {
+            "id": "products_fuel_systems_carburetors_street",
+            "url": "https://www.holley.com/products/fuel_systems/carburetors/street/",
+            "text": "Street Carburetors"
+        },
+        {
+            "id": "products_fuel_systems_carburetors_street_strip",
+            "url": "https://www.holley.com/products/fuel_systems/carburetors/street_strip/",
+            "text": "Performance and Race"
+        },
+        {
+            "id": "products_fuel_systems_carburetors_pro",
+            "url": "https://www.holley.com/products/fuel_systems/carburetors/pro/",
+            "text": "Professional Race"
+        },
+        {
+            "id": "products_fuel_systems_carburetors_marine_carburetors",
+            "url": "https://www.holley.com/products/fuel_systems/carburetors/marine_carburetors/",
+            "text": "Marine Carburetors"
+        },
+        {
+            "id": "products_fuel_systems_carburetors_carburetor_tools",
+            "url": "https://www.holley.com/products/fuel_systems/carburetors/carburetor_tools/",
+            "text": "Carburetor Tools"
+        },
+        {
+            "id": "products_fuel_systems_carburetors_carburetor_and_manifold_combos",
+            "url": "https://www.holley.com/products/fuel_systems/carburetors/carburetor_and_manifold_combos/",
+            "text": "Carburetor and Manifold Combos"
+        },
+        {
+            "id": "products_fuel_systems_carburetors_factory_refurbished_carburetors",
+            "url": "https://www.holley.com/products/fuel_systems/carburetors/factory_refurbished_carburetors/",
+            "text": "Factory Refurbished Carburetors"
+        },
+        {
+            "id": "products_fuel_systems_carburetors_performance_2_barrels",
+            "url": "https://www.holley.com/products/fuel_systems/carburetors/performance_2_barrels/",
+            "text": "Performance 2 Barrels"
+        },
+        {
+            "id": "products_fuel_systems_carburetors_specialty_carburetors",
+            "url": "https://www.holley.com/products/fuel_systems/carburetors/specialty_carburetors/",
+            "text": "Specialty Carburetors"
+        },
+        {
+            "id": "products_gaskets",
+            "url": "https://www.holley.com/products/gaskets/",
+            "text": "Gaskets"
+        },
+        {
+            "id": "products_gaskets_header_gaskets",
+            "url": "https://www.holley.com/products/gaskets/header_gaskets/",
+            "text": "Header Gaskets"
+        },
+        {
+            "id": "products_gaskets_other_gaskets",
+            "url": "https://www.holley.com/products/gaskets/other_gaskets/",
+            "text": "Other Gaskets"
+        },
+        {
+            "id": "products_gaskets_carburetor_gaskets",
+            "url": "https://www.holley.com/products/gaskets/carburetor_gaskets/",
+            "text": "Carburetor Gaskets"
+        },
+        {
+            "id": "products_gaskets_collector_gaskets",
+            "url": "https://www.holley.com/products/gaskets/collector_gaskets/",
+            "text": "Collector Gaskets"
+        },
+        {
+            "id": "products_gaskets_differential_cover_gaskets",
+            "url": "https://www.holley.com/products/gaskets/differential_cover_gaskets/",
+            "text": "Differential Cover Gaskets"
+        },
+        {
+            "id": "products_gaskets_gasket_kits",
+            "url": "https://www.holley.com/products/gaskets/gasket_kits/",
+            "text": "Gasket Kits"
+        },
+        {
+            "id": "products_gaskets_gasket_material",
+            "url": "https://www.holley.com/products/gaskets/gasket_material/",
+            "text": "Gasket Material"
+        },
+        {
+            "id": "products_gaskets_head_gaskets",
+            "url": "https://www.holley.com/products/gaskets/head_gaskets/",
+            "text": "Head Gaskets"
+        },
+        {
+            "id": "products_gaskets_intake_gaskets",
+            "url": "https://www.holley.com/products/gaskets/intake_gaskets/",
+            "text": "Intake Gaskets"
+        },
+        {
+            "id": "products_gaskets_oil_pan_gaskets",
+            "url": "https://www.holley.com/products/gaskets/oil_pan_gaskets/",
+            "text": "Oil Pan Gaskets"
+        },
+        {
+            "id": "products_gaskets_rtv_and_sealants",
+            "url": "https://www.holley.com/products/gaskets/rtv_and_sealants/",
+            "text": "RTV and Sealants"
+        },
+        {
+            "id": "products_gaskets_seals",
+            "url": "https://www.holley.com/products/gaskets/seals/",
+            "text": "Seals"
+        },
+        {
+            "id": "products_gaskets_supercharger_gaskets",
+            "url": "https://www.holley.com/products/gaskets/supercharger_gaskets/",
+            "text": "Supercharger Gaskets"
+        },
+        {
+            "id": "products_gaskets_timing_cover_gaskets",
+            "url": "https://www.holley.com/products/gaskets/timing_cover_gaskets/",
+            "text": "Timing Cover Gaskets"
+        },
+        {
+            "id": "products_gaskets_transmission_gaskets",
+            "url": "https://www.holley.com/products/gaskets/transmission_gaskets/",
+            "text": "Transmission Gaskets"
+        },
+        {
+            "id": "products_gaskets_valve_cover_gaskets",
+            "url": "https://www.holley.com/products/gaskets/valve_cover_gaskets/",
+            "text": "Valve Cover Gaskets"
+        },
+        {
+            "id": "products_safety_equipment",
+            "url": "https://www.holley.com/products/safety_equipment/",
+            "text": "Safety Equipment"
+        },
+        {
+            "id": "products_safety_equipment_belts",
+            "url": "https://www.holley.com/products/safety_equipment/belts/",
+            "text": "Harnesses"
+        },
+        {
+            "id": "products_safety_equipment_helmets",
+            "url": "https://www.holley.com/products/safety_equipment/helmets/",
+            "text": "Helmets"
+        },
+        {
+            "id": "products_safety_equipment_fire_suits",
+            "url": "https://www.holley.com/products/safety_equipment/fire_suits/",
+            "text": "Racing Suits"
+        },
+        {
+            "id": "products_safety_equipment_gloves",
+            "url": "https://www.holley.com/products/safety_equipment/gloves/",
+            "text": "Gloves"
+        },
+        {
+            "id": "products_safety_equipment_aprons",
+            "url": "https://www.holley.com/products/safety_equipment/aprons/",
+            "text": "Aprons"
+        },
+        {
+            "id": "products_safety_equipment_arm_restraints",
+            "url": "https://www.holley.com/products/safety_equipment/arm_restraints/",
+            "text": "Arm Restraints"
+        },
+        {
+            "id": "products_safety_equipment_chest_and_rib_protectors",
+            "url": "https://www.holley.com/products/safety_equipment/chest_and_rib_protectors/",
+            "text": "Chest and Rib Protectors"
+        },
+        {
+            "id": "products_safety_equipment_cleaners",
+            "url": "https://www.holley.com/products/safety_equipment/cleaners/",
+            "text": "Cleaners"
+        },
+        {
+            "id": "products_safety_equipment_drag_parachutes",
+            "url": "https://www.holley.com/products/safety_equipment/drag_parachutes/",
+            "text": "Drag Parachutes"
+        },
+        {
+            "id": "products_safety_equipment_equipment_bags",
+            "url": "https://www.holley.com/products/safety_equipment/equipment_bags/",
+            "text": "Equipment Bags"
+        },
+        {
+            "id": "products_safety_equipment_head_and_neck_restraints",
+            "url": "https://www.holley.com/products/safety_equipment/head_and_neck_restraints/",
+            "text": "Head and Neck Restraints"
+        },
+        {
+            "id": "products_safety_equipment_karting",
+            "url": "https://www.holley.com/products/safety_equipment/karting/",
+            "text": "Karting"
+        },
+        {
+            "id": "products_safety_equipment_seats",
+            "url": "https://www.holley.com/products/safety_equipment/seats/",
+            "text": "Seats"
+        },
+        {
+            "id": "products_safety_equipment_shifter_boots",
+            "url": "https://www.holley.com/products/safety_equipment/shifter_boots/",
+            "text": "Shifter Boots"
+        },
+        {
+            "id": "products_safety_equipment_shoes",
+            "url": "https://www.holley.com/products/safety_equipment/shoes/",
+            "text": "Shoes"
+        },
+        {
+            "id": "products_safety_equipment_tow_straps",
+            "url": "https://www.holley.com/products/safety_equipment/tow_straps/",
+            "text": "Tow Straps"
+        },
+        {
+            "id": "products_safety_equipment_undergarments",
+            "url": "https://www.holley.com/products/safety_equipment/undergarments/",
+            "text": "Undergarments"
+        },
+        {
+            "id": "products_safety_equipment_window_nets",
+            "url": "https://www.holley.com/products/safety_equipment/window_nets/",
+            "text": "Window Nets"
+        },
+        {
+            "id": "products_safety_equipment_youth",
+            "url": "https://www.holley.com/products/safety_equipment/youth/",
+            "text": "Youth"
+        },
+        {
+            "id": "products_cataclean",
+            "url": "https://www.holley.com/products/cataclean/",
+            "text": "Cataclean"
+        },
+        {
+            "id": "products_cataclean_cataclean_-_fuel_and_exhaust_system_cleaner",
+            "url": "https://www.holley.com/products/cataclean/cataclean_-_fuel_and_exhaust_system_cleaner/",
+            "text": "Cataclean - Fuel and Exhaust System Cleaner"
+        },
+        {
+            "id": "products_cataclean_motorcycle_and_powersports",
+            "url": "https://www.holley.com/products/cataclean/motorcycle_and_powersports/",
+            "text": "Motorcycle and Powersports"
+        },
+        {
+            "id": "products_gauges_and_gauge_accessories",
+            "url": "https://www.holley.com/products/gauges_and_gauge_accessories/",
+            "text": "Gauges and Gauge Accessories"
+        },
+        {
+            "id": "products_gauges_and_gauge_accessories_digital_displays_and_touchscreens",
+            "url": "https://www.holley.com/products/gauges_and_gauge_accessories/digital_displays_and_touchscreens/",
+            "text": "Digital Displays and Touchscreens"
+        },
+        {
+            "id": "products_gauges_and_gauge_accessories_gauge_sets",
+            "url": "https://www.holley.com/products/gauges_and_gauge_accessories/gauge_sets/",
+            "text": "Gauge Sets"
+        },
+        {
+            "id": "products_gauges_and_gauge_accessories_analog_gauges",
+            "url": "https://www.holley.com/products/gauges_and_gauge_accessories/analog_gauges/",
+            "text": "Analog Gauges"
+        },
+        {
+            "id": "products_gauges_and_gauge_accessories_digital_gauges",
+            "url": "https://www.holley.com/products/gauges_and_gauge_accessories/digital_gauges/",
+            "text": "Digital Gauges"
+        },
+        {
+            "id": "products_gauges_and_gauge_accessories_gauge_accessories_and_harnesses",
+            "url": "https://www.holley.com/products/gauges_and_gauge_accessories/gauge_accessories_and_harnesses/",
+            "text": "Gauge Accessories and Harnesses"
+        },
+        {
+            "id": "products_gauges_and_gauge_accessories_gauge_adapters_and_fittings",
+            "url": "https://www.holley.com/products/gauges_and_gauge_accessories/gauge_adapters_and_fittings/",
+            "text": "Gauge Adapters and Fittings"
+        },
+        {
+            "id": "products_gauges_and_gauge_accessories_shift_lights",
+            "url": "https://www.holley.com/products/gauges_and_gauge_accessories/shift_lights/",
+            "text": "Shift Lights"
+        },
+        {
+            "id": "products_gauges_and_gauge_accessories_tach_adapters",
+            "url": "https://www.holley.com/products/gauges_and_gauge_accessories/tach_adapters/",
+            "text": "Tach Adapters"
+        },
+        {
+            "id": "products_suspension_and_chassis",
+            "url": "https://www.holley.com/products/suspension_and_chassis/",
+            "text": "Suspension & Chassis"
+        },
+        {
+            "id": "products_suspension_and_chassis_suspension_pacakges",
+            "url": "https://www.holley.com/products/suspension_and_chassis/suspension_pacakges/",
+            "text": "Suspension Packages"
+        },
+        {
+            "id": "products_suspension_and_chassis_ball_joints",
+            "url": "https://www.holley.com/products/suspension_and_chassis/ball_joints/",
+            "text": "Ball Joints"
+        },
+        {
+            "id": "products_suspension_and_chassis_steering_components",
+            "url": "https://www.holley.com/products/suspension_and_chassis/steering_components/",
+            "text": "Steering Components"
+        },
+        {
+            "id": "products_suspension_and_chassis_control_arms",
+            "url": "https://www.holley.com/products/suspension_and_chassis/control_arms/",
+            "text": "Control Arms"
+        },
+        {
+            "id": "products_suspension_and_chassis_air_ride",
+            "url": "https://www.holley.com/products/suspension_and_chassis/air_ride/",
+            "text": "Air Ride"
+        },
+        {
+            "id": "products_suspension_and_chassis_c-notch_kits",
+            "url": "https://www.holley.com/products/suspension_and_chassis/c-notch_kits/",
+            "text": "C-Notch Kits"
+        },
+        {
+            "id": "products_suspension_and_chassis_driveshaft_safety_loops",
+            "url": "https://www.holley.com/products/suspension_and_chassis/driveshaft_safety_loops/",
+            "text": "Driveshaft Safety Loops"
+        },
+        {
+            "id": "products_suspension_and_chassis_front_drop_axles_and_kingpins",
+            "url": "https://www.holley.com/products/suspension_and_chassis/front_drop_axles_and_kingpins/",
+            "text": "Front Drop Axles & Kingpins"
+        },
+        {
+            "id": "products_suspension_and_chassis_hitches_and_towing",
+            "url": "https://www.holley.com/products/suspension_and_chassis/hitches_and_towing/",
+            "text": "Hitches and Towing"
+        },
+        {
+            "id": "products_suspension_and_chassis_leveling_and_lift_kits",
+            "url": "https://www.holley.com/products/suspension_and_chassis/leveling_and_lift_kits/",
+            "text": "Leveling and Lift Kits"
+        },
+        {
+            "id": "products_suspension_and_chassis_truck_bed_conversions",
+            "url": "https://www.holley.com/products/suspension_and_chassis/truck_bed_conversions/",
+            "text": "Longbed to Shortbed Conversion Kits"
+        },
+        {
+            "id": "products_suspension_and_chassis_shocks_and_struts",
+            "url": "https://www.holley.com/products/suspension_and_chassis/shocks_and_struts/",
+            "text": "Shocks and Struts"
+        },
+        {
+            "id": "products_suspension_and_chassis_springs_and_bumpstops",
+            "url": "https://www.holley.com/products/suspension_and_chassis/springs_and_bumpstops/",
+            "text": "Springs & Bumpstops"
+        },
+        {
+            "id": "products_suspension_and_chassis_strut_tower_and_suspension_braces",
+            "url": "https://www.holley.com/products/suspension_and_chassis/strut_tower_and_suspension_braces/",
+            "text": "Strut Tower and Chassis Braces"
+        },
+        {
+            "id": "products_suspension_and_chassis_swap_bars_and_components",
+            "url": "https://www.holley.com/products/suspension_and_chassis/swap_bars_and_components/",
+            "text": "Sway Bars and Components"
+        },
+        {
+            "id": "products_suspension_and_chassis_traction_bars",
+            "url": "https://www.holley.com/products/suspension_and_chassis/traction_bars/",
+            "text": "Traction Bars and Components"
+        },
+        {
+            "id": "products_cooling",
+            "url": "https://www.holley.com/products/cooling/",
+            "text": "Cooling"
+        },
+        {
+            "id": "products_cooling_water_pumps",
+            "url": "https://www.holley.com/products/cooling/water_pumps/",
+            "text": "Water Pumps and Accessories"
+        },
+        {
+            "id": "products_cooling_radiators_and_accessories",
+            "url": "https://www.holley.com/products/cooling/radiators_and_accessories/",
+            "text": "Radiators and Accessories"
+        },
+        {
+            "id": "products_cooling_fans",
+            "url": "https://www.holley.com/products/cooling/fans/",
+            "text": "Fans & Accessories"
+        },
+        {
+            "id": "products_cooling_wiring_harnesses_and_relays",
+            "url": "https://www.holley.com/products/cooling/wiring_harnesses_and_relays/",
+            "text": "Wiring Harnesses and Relays"
+        },
+        {
+            "id": "products_cooling_fan_mounting_brackets",
+            "url": "https://www.holley.com/products/cooling/fan_mounting_brackets/",
+            "text": "Fan Mounting Solutions"
+        },
+        {
+            "id": "products_cooling_hose_sleeving",
+            "url": "https://www.holley.com/products/cooling/hose_sleeving/",
+            "text": "Hose Sleeving"
+        },
+        {
+            "id": "products_cooling_intercoolers",
+            "url": "https://www.holley.com/products/cooling/intercoolers/",
+            "text": "Intercoolers"
+        },
+        {
+            "id": "products_cooling_oil_and_transmission_coolers",
+            "url": "https://www.holley.com/products/cooling/oil_and_transmission_coolers/",
+            "text": "Oil And Transmission Coolers"
+        },
+        {
+            "id": "products_cooling_thermostats",
+            "url": "https://www.holley.com/products/cooling/thermostats/",
+            "text": "Thermostats"
+        },
+        {
+            "id": "products_cooling_water_outlets",
+            "url": "https://www.holley.com/products/cooling/water_outlets/",
+            "text": "Water Outlets"
+        },
+        {
+            "id": "products_ignition",
+            "url": "https://www.holley.com/products/ignition/",
+            "text": "Ignition"
+        },
+        {
+            "id": "products_ignition_tune_up_kits",
+            "url": "https://www.holley.com/products/ignition/tune_up_kits/",
+            "text": "Tune Up Kits"
+        },
+        {
+            "id": "products_ignition_ignition_boxes",
+            "url": "https://www.holley.com/products/ignition/ignition_boxes/",
+            "text": "Ignition Boxes"
+        },
+        {
+            "id": "products_ignition_distributors",
+            "url": "https://www.holley.com/products/ignition/distributors/",
+            "text": "Distributors"
+        },
+        {
+            "id": "products_ignition_hyperspark_ignition_for_sniper_efi",
+            "url": "https://www.holley.com/products/ignition/hyperspark_ignition_for_sniper_efi/",
+            "text": "HyperSpark Ignition for Sniper EFI"
+        },
+        {
+            "id": "products_ignition_crank_triggers",
+            "url": "https://www.holley.com/products/ignition/crank_triggers/",
+            "text": "Crank Triggers"
+        },
+        {
+            "id": "products_ignition_electronic_conversion_kits",
+            "url": "https://www.holley.com/products/ignition/electronic_conversion_kits/",
+            "text": "Electronic Conversion Kits"
+        },
+        {
+            "id": "products_ignition_heat_shielding",
+            "url": "https://www.holley.com/products/ignition/heat_shielding/",
+            "text": "Heat Shielding"
+        },
+        {
+            "id": "products_ignition_ignition_coils",
+            "url": "https://www.holley.com/products/ignition/ignition_coils/",
+            "text": "Ignition Coils"
+        },
+        {
+            "id": "products_ignition_ignition_harnesses",
+            "url": "https://www.holley.com/products/ignition/ignition_harnesses/",
+            "text": "Ignition Harnesses"
+        },
+        {
+            "id": "products_ignition_ignition_and_electrical_components",
+            "url": "https://www.holley.com/products/ignition/ignition_and_electrical_components/",
+            "text": "Ignition and Electrical Components"
+        },
+        {
+            "id": "products_ignition_magnetos",
+            "url": "https://www.holley.com/products/ignition/magnetos/",
+            "text": "Magnetos"
+        },
+        {
+            "id": "products_ignition_pro_billet_bundles",
+            "url": "https://www.holley.com/products/ignition/pro_billet_bundles/",
+            "text": "Pro Billet Bundles"
+        },
+        {
+            "id": "products_ignition_rpm_and_timing_controls",
+            "url": "https://www.holley.com/products/ignition/rpm_and_timing_controls/",
+            "text": "RPM & Timing Controls"
+        },
+        {
+            "id": "products_ignition_smart_coil_and_components",
+            "url": "https://www.holley.com/products/ignition/smart_coil_and_components/",
+            "text": "Smart Coil and Components"
+        },
+        {
+            "id": "products_ignition_spark_plug_wires",
+            "url": "https://www.holley.com/products/ignition/spark_plug_wires/",
+            "text": "Spark Plug Wires"
+        },
+        {
+            "id": "products_ignition_spark_plugs",
+            "url": "https://www.holley.com/products/ignition/spark_plugs/",
+            "text": "Spark Plugs"
+        },
+        {
+            "id": "products_tools",
+            "url": "https://www.holley.com/products/tools/",
+            "text": "Tools & Shop Equipment"
+        },
+        {
+            "id": "products_tools_plumbing_tools",
+            "url": "https://www.holley.com/products/tools/plumbing_tools/",
+            "text": "Plumbing Tools"
+        },
+        {
+            "id": "products_tools_ignition_tools_and_testers",
+            "url": "https://www.holley.com/products/tools/ignition_tools_and_testers/",
+            "text": "Ignition Tools and Testers"
+        },
+        {
+            "id": "products_tools_safety_wire",
+            "url": "https://www.holley.com/products/tools/safety_wire/",
+            "text": "Safety Wire"
+        },
+        {
+            "id": "products_tools_carburetor_tools",
+            "url": "https://www.holley.com/products/tools/carburetor_tools/",
+            "text": "Carburetor Tools"
+        },
+        {
+            "id": "products_tools_diagnostic-tools",
+            "url": "https://www.holley.com/products/tools/diagnostic-tools/",
+            "text": "Diagnostic Tools"
+        },
+        {
+            "id": "products_tools_engine_building_tools",
+            "url": "https://www.holley.com/products/tools/engine_building_tools/",
+            "text": "Engine Tools"
+        },
+        {
+            "id": "products_tools_extra_long_fender_covers",
+            "url": "https://www.holley.com/products/tools/extra_long_fender_covers/",
+            "text": "Extra Long Fender Covers"
+        },
+        {
+            "id": "products_tools_fender_covers",
+            "url": "https://www.holley.com/products/tools/fender_covers/",
+            "text": "Fender Covers"
+        },
+        {
+            "id": "products_tools_utility_jug",
+            "url": "https://www.holley.com/products/tools/utility_jug/",
+            "text": "Fluid Tools"
+        },
+        {
+            "id": "products_tools_front_end_covers",
+            "url": "https://www.holley.com/products/tools/front_end_covers/",
+            "text": "Front End Covers"
+        },
+        {
+            "id": "products_tools_hand_tools",
+            "url": "https://www.holley.com/products/tools/hand_tools/",
+            "text": "Hand Tools"
+        },
+        {
+            "id": "products_tools_jumbo_fender_covers",
+            "url": "https://www.holley.com/products/tools/jumbo_fender_covers/",
+            "text": "Jumbo Fender Covers"
+        },
+        {
+            "id": "products_tools_paint",
+            "url": "https://www.holley.com/products/tools/paint/",
+            "text": "Paint & Dye"
+        },
+        {
+            "id": "products_tools_shop_tools",
+            "url": "https://www.holley.com/products/tools/shop_tools/",
+            "text": "Shop Tools"
+        },
+        {
+            "id": "products_data_acquisition",
+            "url": "https://www.holley.com/products/data_acquisition/",
+            "text": "Data Acquisition"
+        },
+        {
+            "id": "products_data_acquisition_shop_by_motorsport",
+            "url": "https://www.holley.com/products/data_acquisition/shop_by_motorsport/",
+            "text": "Shop by Motorsport"
+        },
+        {
+            "id": "products_data_acquisition_vantage",
+            "url": "https://www.holley.com/products/data_acquisition/vantage/",
+            "text": "Vantage"
+        },
+        {
+            "id": "products_data_acquisition_data_loggers",
+            "url": "https://www.holley.com/products/data_acquisition/data_loggers/",
+            "text": "Data Loggers"
+        },
+        {
+            "id": "products_data_acquisition_digital_dashes",
+            "url": "https://www.holley.com/products/data_acquisition/digital_dashes/",
+            "text": "Digital Dashes"
+        },
+        {
+            "id": "products_data_acquisition_cables",
+            "url": "https://www.holley.com/products/data_acquisition/cables/",
+            "text": "Cables"
+        },
+        {
+            "id": "products_data_acquisition_modules",
+            "url": "https://www.holley.com/products/data_acquisition/modules/",
+            "text": "Modules"
+        },
+        {
+            "id": "products_data_acquisition_power_distribution_modules",
+            "url": "https://www.holley.com/products/data_acquisition/power_distribution_modules/",
+            "text": "Power Distribution Modules"
+        },
+        {
+            "id": "products_data_acquisition_sensors",
+            "url": "https://www.holley.com/products/data_acquisition/sensors/",
+            "text": "Sensors"
+        },
+        {
+            "id": "products_data_acquisition_sensors_with_modules",
+            "url": "https://www.holley.com/products/data_acquisition/sensors_with_modules/",
+            "text": "Sensors With Modules"
+        },
+        {
+            "id": "products_data_acquisition_wiring_accessories",
+            "url": "https://www.holley.com/products/data_acquisition/wiring_accessories/",
+            "text": "Wiring Accessories"
+        },
+        {
+            "id": "products_engine_intake_manifolds",
+            "url": "https://www.holley.com/products/engine/intake_manifolds/",
+            "text": "Intake Manifolds"
+        },
+        {
+            "id": "products_engine_intake_manifolds_carbureted_intake_manifolds",
+            "url": "https://www.holley.com/products/engine/intake_manifolds/carbureted_intake_manifolds/",
+            "text": "Carbureted Intake Manifolds"
+        },
+        {
+            "id": "products_engine_intake_manifolds_carburetor_and_manifold_combos",
+            "url": "https://www.holley.com/products/engine/intake_manifolds/carburetor_and_manifold_combos/",
+            "text": "Carburetor and Manifold Combos"
+        },
+        {
+            "id": "products_engine_intake_manifolds_efi_intake_manifolds",
+            "url": "https://www.holley.com/products/engine/intake_manifolds/efi_intake_manifolds/",
+            "text": "EFI Intake Manifolds"
+        },
+        {
+            "id": "products_engine_intake_manifolds_installation_parts_and_accessories",
+            "url": "https://www.holley.com/products/engine/intake_manifolds/installation_parts_and_accessories/",
+            "text": "Installation Parts and Accessories"
+        },
+        {
+            "id": "products_engine_intake_manifolds_roots_supercharger_intake_manifolds",
+            "url": "https://www.holley.com/products/engine/intake_manifolds/roots_supercharger_intake_manifolds/",
+            "text": "Roots Supercharger Intake Manifolds"
+        },
+        {
+            "id": "products_drivetrain",
+            "url": "https://www.holley.com/products/drivetrain/",
+            "text": "Transmission & Drivetrain"
+        },
+        {
+            "id": "products_drivetrain_bellhousings",
+            "url": "https://www.holley.com/products/drivetrain/bellhousings/",
+            "text": "Bellhousings and Accessories"
+        },
+        {
+            "id": "products_drivetrain_clutches",
+            "url": "https://www.holley.com/products/drivetrain/clutches/",
+            "text": "Clutches and Flywheels"
+        },
+        {
+            "id": "products_drivetrain_shifters_components_and_accessories",
+            "url": "https://www.holley.com/products/drivetrain/shifters_components_and_accessories/",
+            "text": "Shifters"
+        },
+        {
+            "id": "products_drivetrain_torque_converters",
+            "url": "https://www.holley.com/products/drivetrain/torque_converters/",
+            "text": "Torque Converters and Flexplates"
+        },
+        {
+            "id": "products_drivetrain_internal_components",
+            "url": "https://www.holley.com/products/drivetrain/internal_components/",
+            "text": "Internal Components"
+        },
+        {
+            "id": "products_drivetrain_rear_axle_and_differential",
+            "url": "https://www.holley.com/products/drivetrain/rear_axle_and_differential/",
+            "text": "Rear Axle & Differential"
+        },
+        {
+            "id": "products_drivetrain_transmission_controller",
+            "url": "https://www.holley.com/products/drivetrain/transmission_controller/",
+            "text": "Transmission Controller"
+        },
+        {
+            "id": "products_drivetrain_transmission_coolers",
+            "url": "https://www.holley.com/products/drivetrain/transmission_coolers/",
+            "text": "Transmission Coolers"
+        },
+        {
+            "id": "products_drivetrain_universal_joints",
+            "url": "https://www.holley.com/products/drivetrain/universal_joints/",
+            "text": "Transmission Mounts"
+        },
+        {
+            "id": "products_drivetrain_transmission_pans_and_accessories",
+            "url": "https://www.holley.com/products/drivetrain/transmission_pans_and_accessories/",
+            "text": "Transmission Pans and Dipsticks"
+        },
+        {
+            "id": "products_drivetrain_driveline_conversions",
+            "url": "https://www.holley.com/products/drivetrain/driveline_conversions/",
+            "text": "Transmission Swap Parts"
+        },
+        {
+            "id": "products_drivetrain_transmissions",
+            "url": "https://www.holley.com/products/drivetrain/transmissions/",
+            "text": "Transmissions"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_sniper_efi",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/sniper_efi/",
+            "text": "Sniper EFI"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_terminator_x",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/terminator_x/",
+            "text": "Terminator X"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_hp_efi",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/hp_efi/",
+            "text": "HP EFI"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_dominator_efi",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/dominator_efi/",
+            "text": "Dominator EFI"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_aem_efi",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/aem_efi/",
+            "text": "AEM EFI"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_atomic_efi",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/atomic_efi/",
+            "text": "Atomic EFI"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_efi_distributors",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/efi_distributors/",
+            "text": "EFI Distributors"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_efi_fuel_system_components",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/efi_fuel_system_components/",
+            "text": "EFI Fuel System Components"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_gauges_and_displays",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/gauges_and_displays/",
+            "text": "Gauges and Displays"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_harnesses",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/harnesses/",
+            "text": "Harnesses"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_hilborn_electronic_and_mechanical_systems",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/hilborn_electronic_and_mechanical_systems/",
+            "text": "Hilborn EFI and MFI Systems"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_hilborn_service_components",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/hilborn_service_components/",
+            "text": "Hilborn Service Components"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_injectors",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/injectors/",
+            "text": "Injectors"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_legacy_efi",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/legacy_efi/",
+            "text": "Legacy EFI"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_modules_and_sensors",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/modules_and_sensors/",
+            "text": "Modules and Sensors"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_terminator_efi",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/terminator_efi/",
+            "text": "Terminator EFI"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_throttle_bodies",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/throttle_bodies/",
+            "text": "Throttle Bodies"
+        },
+        {
+            "id": "products_fuel_systems_fuel_injection_wiring_shop",
+            "url": "https://www.holley.com/products/fuel_systems/fuel_injection/wiring_shop/",
+            "text": "Wiring Shop"
+        },
+        {
+            "id": "products_interior",
+            "url": "https://www.holley.com/products/interior/",
+            "text": "Interior"
+        },
+        {
+            "id": "products_interior_audio_components",
+            "url": "https://www.holley.com/products/interior/audio_components/",
+            "text": "Audio Components"
+        },
+        {
+            "id": "products_interior_carpet",
+            "url": "https://www.holley.com/products/interior/carpet/",
+            "text": "Carpet"
+        },
+        {
+            "id": "products_interior_console",
+            "url": "https://www.holley.com/products/interior/console/",
+            "text": "Console"
+        },
+        {
+            "id": "products_interior_custom_interior",
+            "url": "https://www.holley.com/products/interior/custom_interior/",
+            "text": "Custom Interior"
+        },
+        {
+            "id": "products_interior_dash",
+            "url": "https://www.holley.com/products/interior/dash/",
+            "text": "Dash"
+        },
+        {
+            "id": "products_interior_door",
+            "url": "https://www.holley.com/products/interior/door/",
+            "text": "Door"
+        },
+        {
+            "id": "products_interior_floor_mats",
+            "url": "https://www.holley.com/products/interior/floor_mats/",
+            "text": "Floor Mats"
+        },
+        {
+            "id": "products_interior_gauges",
+            "url": "https://www.holley.com/products/interior/gauges/",
+            "text": "Gauges"
+        },
+        {
+            "id": "products_interior_glove_box",
+            "url": "https://www.holley.com/products/interior/glove_box/",
+            "text": "Glove Box"
+        },
+        {
+            "id": "products_interior_headliner",
+            "url": "https://www.holley.com/products/interior/headliner/",
+            "text": "Headliners and Components"
+        },
+        {
+            "id": "products_interior_horn",
+            "url": "https://www.holley.com/products/interior/horn/",
+            "text": "Horn"
+        },
+        {
+            "id": "products_interior_instrument_panels_and_components",
+            "url": "https://www.holley.com/products/interior/instrument_panels_and_components/",
+            "text": "Instrument Panels and Components"
+        },
+        {
+            "id": "products_interior_lights",
+            "url": "https://www.holley.com/products/interior/lights/",
+            "text": "Lights"
+        },
+        {
+            "id": "products_interior_pedals_and_pedal_pads",
+            "url": "https://www.holley.com/products/interior/pedals_and_pedal_pads/",
+            "text": "Pedals and Pedal Pads"
+        },
+        {
+            "id": "products_interior_rear_view_mirror",
+            "url": "https://www.holley.com/products/interior/rear_view_mirror/",
+            "text": "Rear View Mirror"
+        },
+        {
+            "id": "products_interior_seat",
+            "url": "https://www.holley.com/products/interior/seat/",
+            "text": "Seat"
+        },
+        {
+            "id": "products_interior_seatbelt",
+            "url": "https://www.holley.com/products/interior/seatbelt/",
+            "text": "Seatbelt"
+        },
+        {
+            "id": "products_interior_steering_wheels",
+            "url": "https://www.holley.com/products/interior/steering_wheels/",
+            "text": "Steering Wheels"
+        },
+        {
+            "id": "products_interior_sunvisor_and_components",
+            "url": "https://www.holley.com/products/interior/sunvisor_and_components/",
+            "text": "Sunvisor And Components"
+        },
+        {
+            "id": "products_interior_trim",
+            "url": "https://www.holley.com/products/interior/trim/",
+            "text": "Trim"
+        },
+        {
+            "id": "products_interior_trunk",
+            "url": "https://www.holley.com/products/interior/trunk/",
+            "text": "Trunk"
+        },
+        {
+            "id": "products_tuners_and_programmers",
+            "url": "https://www.holley.com/products/tuners_and_programmers/",
+            "text": "Tuners and Programmers"
+        },
+        {
+            "id": "products_tuners_and_programmers_handheld_tuners",
+            "url": "https://www.holley.com/products/tuners_and_programmers/handheld_tuners/",
+            "text": "Handheld Tuners"
+        },
+        {
+            "id": "products_tuners_and_programmers_in-cabin_tuners_and_monitors",
+            "url": "https://www.holley.com/products/tuners_and_programmers/in-cabin_tuners_and_monitors/",
+            "text": "In-Cabin Tuners and Monitors"
+        },
+        {
+            "id": "products_tuners_and_programmers_obd-ii_modules",
+            "url": "https://www.holley.com/products/tuners_and_programmers/obd-ii_modules/",
+            "text": "AFM and DFM"
+        },
+        {
+            "id": "products_tuners_and_programmers_start-stop_disabler",
+            "url": "https://www.holley.com/products/tuners_and_programmers/start-stop_disabler/",
+            "text": "Start/Stop Disabler"
+        },
+        {
+            "id": "products_tuners_and_programmers_4xe_tuning_from_superchips",
+            "url": "https://www.holley.com/products/tuners_and_programmers/4xe_tuning_from_superchips/",
+            "text": "4xe Tuning from Superchips"
+        },
+        {
+            "id": "products_tuners_and_programmers_accessories",
+            "url": "https://www.holley.com/products/tuners_and_programmers/accessories/",
+            "text": "Accessories"
+        },
+        {
+            "id": "products_tuners_and_programmers_throttle_sensitivity_booster",
+            "url": "https://www.holley.com/products/tuners_and_programmers/throttle_sensitivity_booster/",
+            "text": "Amp'd Throttle Booster"
+        },
+        {
+            "id": "products_tuners_and_programmers_diablosport_predator_x",
+            "url": "https://www.holley.com/products/tuners_and_programmers/diablosport_predator_x/",
+            "text": "DiabloSport PredatorX"
+        },
+        {
+            "id": "products_tuners_and_programmers_dinan_software-tuning",
+            "url": "https://www.holley.com/products/tuners_and_programmers/dinan_software-tuning/",
+            "text": "Dinan Software-Tuning"
+        },
+        {
+            "id": "products_tuners_and_programmers_inline_tuning_modules",
+            "url": "https://www.holley.com/products/tuners_and_programmers/inline_tuning_modules/",
+            "text": "Inline Tuning Modules"
+        },
+        {
+            "id": "products_tuners_and_programmers_pcm",
+            "url": "https://www.holley.com/products/tuners_and_programmers/pcm/",
+            "text": "PCM"
+        },
+        {
+            "id": "products_electrical",
+            "url": "https://www.holley.com/products/electrical/",
+            "text": "Electrical"
+        },
+        {
+            "id": "products_electrical_alternators",
+            "url": "https://www.holley.com/products/electrical/alternators/",
+            "text": "Alternators"
+        },
+        {
+            "id": "products_electrical_corvette_headlight_kits",
+            "url": "https://www.holley.com/products/electrical/corvette_headlight_kits/",
+            "text": "Corvette & Camaro Headlight Kits"
+        },
+        {
+            "id": "products_electrical_starters",
+            "url": "https://www.holley.com/products/electrical/starters/",
+            "text": "Starters"
+        },
+        {
+            "id": "products_electrical_wiring_and_relays",
+            "url": "https://www.holley.com/products/electrical/wiring_and_relays/",
+            "text": "Wiring and Relays"
+        },
+        {
+            "id": "products_electrical_can_bus_expansion",
+            "url": "https://www.holley.com/products/electrical/can_bus_expansion/",
+            "text": "CAN Bus Expansion"
+        },
+        {
+            "id": "products_electrical_connectors",
+            "url": "https://www.holley.com/products/electrical/connectors/",
+            "text": "Connectors"
+        },
+        {
+            "id": "products_electrical_door_jamb_boots",
+            "url": "https://www.holley.com/products/electrical/door_jamb_boots/",
+            "text": "Door Jamb Boots"
+        },
+        {
+            "id": "products_electrical_electrical_systems_and_accessories",
+            "url": "https://www.holley.com/products/electrical/electrical_systems_and_accessories/",
+            "text": "Electrical System Accessories"
+        },
+        {
+            "id": "products_electrical_harnesses",
+            "url": "https://www.holley.com/products/electrical/harnesses/",
+            "text": "Harnesses"
+        },
+        {
+            "id": "products_electrical_ignition_switches",
+            "url": "https://www.holley.com/products/electrical/ignition_switches/",
+            "text": "Ignition Switches"
+        },
+        {
+            "id": "products_electrical_led_lighting",
+            "url": "https://www.holley.com/products/electrical/led_lighting/",
+            "text": "LED Lighting"
+        },
+        {
+            "id": "products_electrical_pins_and_seals",
+            "url": "https://www.holley.com/products/electrical/pins_and_seals/",
+            "text": "Pins and Seals"
+        },
+        {
+            "id": "products_electrical_power_distribution",
+            "url": "https://www.holley.com/products/electrical/power_distribution/",
+            "text": "Power Distribution"
+        },
+        {
+            "id": "products_electrical_selecta-speed_wiper_kits",
+            "url": "https://www.holley.com/products/electrical/selecta-speed_wiper_kits/",
+            "text": "Selecta-Speed Wiper Kits"
+        },
+        {
+            "id": "products_electrical_sensors",
+            "url": "https://www.holley.com/products/electrical/sensors/",
+            "text": "Sensors"
+        },
+        {
+            "id": "products_electrical_starter_accessories",
+            "url": "https://www.holley.com/products/electrical/starter_accessories/",
+            "text": "Starter Accessories"
+        },
+        {
+            "id": "products_electrical_switches_and_parts",
+            "url": "https://www.holley.com/products/electrical/switches_and_parts/",
+            "text": "Switches and Parts"
+        },
+        {
+            "id": "products_electrical_wire_covering",
+            "url": "https://www.holley.com/products/electrical/wire_covering/",
+            "text": "Wire Loom"
+        },
+        {
+            "id": "products_electrical_wire_and_cable",
+            "url": "https://www.holley.com/products/electrical/wire_and_cable/",
+            "text": "Wire and Cable"
+        },
+        {
+            "id": "products_electrical_wiring_tools",
+            "url": "https://www.holley.com/products/electrical/wiring_tools/",
+            "text": "Wiring Tools"
+        },
+        {
+            "id": "products_lighting",
+            "url": "https://www.holley.com/products/lighting/",
+            "text": "Lighting"
+        },
+        {
+            "id": "products_lighting_accessories",
+            "url": "https://www.holley.com/products/lighting/accessories/",
+            "text": "Mounts and Accessories"
+        },
+        {
+            "id": "products_lighting_fog_lights",
+            "url": "https://www.holley.com/products/lighting/fog_lights/",
+            "text": "Fog Lights"
+        },
+        {
+            "id": "products_lighting_headlights",
+            "url": "https://www.holley.com/products/lighting/headlights/",
+            "text": "Headlights"
+        },
+        {
+            "id": "products_lighting_led_cube_lights",
+            "url": "https://www.holley.com/products/lighting/led_cube_lights/",
+            "text": "LED Cube Lights"
+        },
+        {
+            "id": "products_lighting_bezels_and_trim",
+            "url": "https://www.holley.com/products/lighting/bezels_and_trim/",
+            "text": "Bezels and Trim"
+        },
+        {
+            "id": "products_lighting_led_light_bars",
+            "url": "https://www.holley.com/products/lighting/led_light_bars/",
+            "text": "LED Light Bars"
+        },
+        {
+            "id": "products_lighting_marker_and_signal_lamps",
+            "url": "https://www.holley.com/products/lighting/marker_and_signal_lamps/",
+            "text": "Marker and Signal Lamps"
+        },
+        {
+            "id": "products_lighting_tail_lights",
+            "url": "https://www.holley.com/products/lighting/tail_lights/",
+            "text": "Tail Lights"
+        },
+        {
+            "id": "products_wheels",
+            "url": "https://www.holley.com/products/wheels/",
+            "text": "Wheels and Wheel Accessories"
+        },
+        {
+            "id": "products_wheels_wheels",
+            "url": "https://www.holley.com/products/wheels/wheels/",
+            "text": "Wheels"
+        },
+        {
+            "id": "products_wheels_wheel_accessories",
+            "url": "https://www.holley.com/products/wheels/wheel_accessories/",
+            "text": "Wheel Accessories"
+        },
+        {
+            "id": "products_engine",
+            "url": "https://www.holley.com/products/engine/",
+            "text": "Engine"
+        },
+        {
+            "id": "products_engine_accessory_drive_brackets_and_kits",
+            "url": "https://www.holley.com/products/engine/accessory_drive_brackets_and_kits/",
+            "text": "Accessory Drive Brackets and Kits"
+        },
+        {
+            "id": "products_engine_oil_pans",
+            "url": "https://www.holley.com/products/engine/oil_pans/",
+            "text": "Oil Pans"
+        },
+        {
+            "id": "products_engine_oil_pumps",
+            "url": "https://www.holley.com/products/engine/oil_pumps/",
+            "text": "Oil Pumps"
+        },
+        {
+            "id": "products_engine_air_cleaners",
+            "url": "https://www.holley.com/products/engine/air_cleaners/",
+            "text": "Air Cleaners"
+        },
+        {
+            "id": "products_engine_crate_engines",
+            "url": "https://www.holley.com/products/engine/crate_engines/",
+            "text": "Crate Engines"
+        },
+        {
+            "id": "products_engine_engine_dress_up",
+            "url": "https://www.holley.com/products/engine/engine_dress_up/",
+            "text": "Engine Dress Up"
+        },
+        {
+            "id": "products_engine_engine_mounts",
+            "url": "https://www.holley.com/products/engine/engine_mounts/",
+            "text": "Engine Mounts"
+        },
+        {
+            "id": "products_engine_forced_induction",
+            "url": "https://www.holley.com/products/engine/forced_induction/",
+            "text": "Forced Induction"
+        },
+        {
+            "id": "products_engine_harmonic_balancers",
+            "url": "https://www.holley.com/products/engine/harmonic_balancers/",
+            "text": "Harmonic Balancers"
+        },
+        {
+            "id": "products_engine_timing_covers",
+            "url": "https://www.holley.com/products/engine/timing_covers/",
+            "text": "Timing Covers"
+        },
+        {
+            "id": "products_engine_valley_covers",
+            "url": "https://www.holley.com/products/engine/valley_covers/",
+            "text": "Valley Covers"
+        },
+        {
+            "id": "products_engine_valve_covers",
+            "url": "https://www.holley.com/products/engine/valve_covers/",
+            "text": "Valve Covers"
+        },
+        {
+            "id": "products_engine_valvetrain",
+            "url": "https://www.holley.com/products/engine/valvetrain/",
+            "text": "Valvetrain"
+        },
+        {
+            "id": "products_ls_power",
+            "url": "https://www.holley.com/products/ls_power/",
+            "text": "LS and LT Power"
+        },
+        {
+            "id": "products_ls_power_ls_swap_systems",
+            "url": "https://www.holley.com/products/ls_power/ls_swap_systems/",
+            "text": "LS Swap Systems"
+        },
+        {
+            "id": "products_ls_power_ls_efi_systems",
+            "url": "https://www.holley.com/products/ls_power/ls_efi_systems/",
+            "text": "LS EFI Systems"
+        },
+        {
+            "id": "products_ls_power_ls_intakes",
+            "url": "https://www.holley.com/products/ls_power/ls_intakes/",
+            "text": "LS and LT Intakes"
+        },
+        {
+            "id": "products_ls_power_ls_exhaust",
+            "url": "https://www.holley.com/products/ls_power/ls_exhaust/",
+            "text": "LS and LT Exhaust"
+        },
+        {
+            "id": "products_ls_power_efi_components",
+            "url": "https://www.holley.com/products/ls_power/efi_components/",
+            "text": "EFI Components"
+        },
+        {
+            "id": "products_ls_power_engine_and_transmission_mounts",
+            "url": "https://www.holley.com/products/ls_power/engine_and_transmission_mounts/",
+            "text": "Engine and Transmission mounts"
+        },
+        {
+            "id": "products_ls_power_fuel_pump_regulator_and_filter",
+            "url": "https://www.holley.com/products/ls_power/fuel_pump_regulator_and_filter/",
+            "text": "Fuel Pump Regulator and Filter"
+        },
+        {
+            "id": "products_ls_power_fuel_tanks",
+            "url": "https://www.holley.com/products/ls_power/fuel_tanks/",
+            "text": "Fuel Tanks"
+        },
+        {
+            "id": "products_ls_power_ls_engine_components",
+            "url": "https://www.holley.com/products/ls_power/ls_engine_components/",
+            "text": "LS Engine Components"
+        },
+        {
+            "id": "products_ls_power_ls_gaskets",
+            "url": "https://www.holley.com/products/ls_power/ls_gaskets/",
+            "text": "LS Gaskets"
+        },
+        {
+            "id": "products_ls_power_ls_swap_radiators",
+            "url": "https://www.holley.com/products/ls_power/ls_swap_radiators/",
+            "text": "LS Swap Radiators"
+        },
+        {
+            "id": "products_ls_power_ls_throttle_bodies",
+            "url": "https://www.holley.com/products/ls_power/ls_throttle_bodies/",
+            "text": "LS Throttle Bodies"
+        },
+        {
+            "id": "products_ls_power_ls_tools",
+            "url": "https://www.holley.com/products/ls_power/ls_tools/",
+            "text": "LS Tools"
+        },
+        {
+            "id": "products_ls_power_dress_up",
+            "url": "https://www.holley.com/products/ls_power/dress_up/",
+            "text": "LS Valve Covers & Engine Appearance"
+        },
+        {
+            "id": "products_ls_power_ls_and_lt_accessory_drives",
+            "url": "https://www.holley.com/products/ls_power/ls_and_lt_accessory_drives/",
+            "text": "LS and LT Accessory Drives"
+        },
+        {
+            "id": "products_ls_power_ls_drivetrain",
+            "url": "https://www.holley.com/products/ls_power/ls_drivetrain/",
+            "text": "LS and LT Drivetrain"
+        },
+        {
+            "id": "products_ls_power_ls_ignition_products",
+            "url": "https://www.holley.com/products/ls_power/ls_ignition_products/",
+            "text": "LS and LT Ignition Products"
+        },
+        {
+            "id": "products_ls_power_ls_nitrous_systems",
+            "url": "https://www.holley.com/products/ls_power/ls_nitrous_systems/",
+            "text": "LS and LT Nitrous Systems"
+        },
+        {
+            "id": "products_ls_power_oil_pans",
+            "url": "https://www.holley.com/products/ls_power/oil_pans/",
+            "text": "LS and LT Swap Oil Pans"
+        },
+        {
+            "id": "products_engine_swap_parts",
+            "url": "https://www.holley.com/products/engine_swap_parts/",
+            "text": "Engine Swap Parts"
+        },
+        {
+            "id": "products_engine_swap_parts_ls_swap_systems",
+            "url": "https://www.holley.com/products/engine_swap_parts/ls_swap_systems/",
+            "text": "LS Swap Systems"
+        },
+        {
+            "id": "products_engine_swap_parts_lt_swap_systems",
+            "url": "https://www.holley.com/products/engine_swap_parts/lt_swap_systems/",
+            "text": "Gen-V LT Swap Systems"
+        },
+        {
+            "id": "products_engine_swap_parts_coyote_swap_systems",
+            "url": "https://www.holley.com/products/engine_swap_parts/coyote_swap_systems/",
+            "text": "Coyote Swap Systems"
+        },
+        {
+            "id": "products_engine_swap_parts_godzilla_swap_systems",
+            "url": "https://www.holley.com/products/engine_swap_parts/godzilla_swap_systems/",
+            "text": "Godzilla Swap Systems"
+        },
+        {
+            "id": "products_engine_swap_parts_accessory_drive_brackets_and_kits",
+            "url": "https://www.holley.com/products/engine_swap_parts/accessory_drive_brackets_and_kits/",
+            "text": "Accessory Drive Brackets and Kits"
+        },
+        {
+            "id": "products_engine_swap_parts_exhaust_systems",
+            "url": "https://www.holley.com/products/engine_swap_parts/exhaust_systems/",
+            "text": "Exhaust Systems"
+        },
+        {
+            "id": "products_engine_swap_parts_hemi_swap_systems",
+            "url": "https://www.holley.com/products/engine_swap_parts/hemi_swap_systems/",
+            "text": "Gen III Hemi Swap Systems"
+        },
+        {
+            "id": "products_engine_swap_parts_mounts_and_crossmembers",
+            "url": "https://www.holley.com/products/engine_swap_parts/mounts_and_crossmembers/",
+            "text": "Mounts and Crossmembers"
+        },
+        {
+            "id": "products_engine_swap_parts_swap_accessories",
+            "url": "https://www.holley.com/products/engine_swap_parts/swap_accessories/",
+            "text": "Swap Accessories"
+        },
+        {
+            "id": "products_marine_and_powersports",
+            "url": "https://www.holley.com/products/marine_and_powersports/",
+            "text": "Marine and Powersports"
+        },
+        {
+            "id": "products_marine_and_powersports_marine",
+            "url": "https://www.holley.com/products/marine_and_powersports/marine/",
+            "text": "Marine"
+        },
+        {
+            "id": "products_marine_and_powersports_motorcycle",
+            "url": "https://www.holley.com/products/marine_and_powersports/motorcycle/",
+            "text": "Motorcycle"
+        },
+        {
+            "id": "products_marine_and_powersports_utv",
+            "url": "https://www.holley.com/products/marine_and_powersports/utv/",
+            "text": "UTV"
+        },
+        {
+            "id": "products_marine_and_powersports_atv",
+            "url": "https://www.holley.com/products/marine_and_powersports/atv/",
+            "text": "ATV"
+        },
+        {
+            "id": "products_marine_and_powersports_watercraft",
+            "url": "https://www.holley.com/products/marine_and_powersports/watercraft/",
+            "text": "Personal Watercraft"
+        },
+        {
+            "id": "products_marine_and_powersports_small_engine",
+            "url": "https://www.holley.com/products/marine_and_powersports/small_engine/",
+            "text": "Small Engine"
+        }
+    ]
+}

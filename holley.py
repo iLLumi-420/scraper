@@ -1,55 +1,74 @@
+import asyncio
+import re
+from urllib.parse import urlparse
 from base_scraper import BaseScraper
 from bs4 import BeautifulSoup
-import asyncio
 
 class HolleyScraper(BaseScraper):
+
+    def get_id_from_url(self, url: str) -> str:
+        parsed = urlparse(url)
+        clean = parsed.netloc + parsed.path
+        clean = re.sub(r"[^\w\-\.]", "_", clean)
+        return clean.strip("_")
+    
     async def directory(self, tag: str, parent_data: dict, data: dict | None = None) -> dict:
-        url = parent_data['url']
+        print(parent_data)
+        if tag == "categories":
+            return await self.get_categories(url=parent_data["url"])
+        if tag == "sub-categories":
+            return await self.get_sub_categories(url=parent_data["url"])
+        
+    async def get_sub_categories(self, url:str ) -> dict:
+        return 'test123'
+
+        
+
+    async def get_categories(self, url):
         session = await self.create_session()
         response = await self.request(session=session, method="get", url=url)
         soup = BeautifulSoup(response.text, "html.parser")
 
-        print(soup)
+        ul = soup.find("ul", class_="subnav")
 
+        seen_urls = set()
         rows = []
 
-        for card in soup.select("div.card-background"):
-            a_tag = card.find("a", href=True)
-            if not a_tag:
-                continue
 
+        for a_tag in ul.find_all("a"):
             href = a_tag["href"]
+            text = a_tag.get_text(strip=True)
             full_url = f"https://www.holley.com{href}"
-            title = a_tag.find("h4", class_="card_title")
-            img = a_tag.find("img", class_="card_image")
-            desc = a_tag.find("div", class_="card-short_description")
-            price = a_tag.find("div", class_="card-price")
-            part_number = a_tag.find("div", class_="card-partnumber")
+            product_id = self.get_dir_name_for_url(href)
 
-            product_id = part_number.text.strip() if part_number else href.strip("/").split("/")[-1]
+            if full_url not in seen_urls:
+                seen_urls.add(full_url)
 
-            rows.append({
-                "id": product_id,
-                "url": full_url,
-                "title": title.text.strip() if title else None,
-                "image": f"https:{img['src']}" if img and img.get("src") else None,
-                "description": desc.text.strip() if desc else None,
-                "price": price.text.strip() if price else None,
-            })
+                rows.append({
+                    "id": product_id,
+                    "url": full_url,
+                    "text": text
+                })
 
         return {"rows": rows}
+
     
     async def detail(self, tag: str, parent_data: dict) -> dict:
         print('test')
         return parent_data
     
 
+
+
 async def main():
-    url = "https://www.holley.com/showcase/new_products/"
+    url = "https://www.holley.com/"
     scraper = HolleyScraper(url)
 
-    print("Scraping new products...")
-    await scraper.scrape_directory(tag="new_products")
+
+    await scraper.scrape_directory(tag="categories")
+
+
+    await scraper.scrape_directory(tag="sub-categories", parent_tag="categories")
 
 
 if __name__ == "__main__":
