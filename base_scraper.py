@@ -101,7 +101,7 @@ class BaseScraper(ABC):
         return random.choice(browsers)
 
     async def create_session(
-        self, headers: dict = {}, timeout: int = 8, **kwargs
+        self, headers: dict = {}, timeout: int = 30, **kwargs
     ) -> AsyncSession:
         session_timeout = timeout * 1.5
         headers = {
