@@ -25,68 +25,60 @@ class HolleyScraper(BaseScraper):
             return await self.get_products_filtered(url=parent_data["url"])
         
             
-    async def get_products_filtered(self, url: str):    
-        session = await self.create_session()
-
-        await session.request("GET", url=url)
-
+    async def get_products_filtered(self, url):
+        visit_url = "https://www.holley.com/products/exhaust/"
         api_url = "https://www.holley.com/assets/php/widget_helpers.php"
 
-        payload = {
-            "action": "filter_grid_search",
-            "guid": "CC559896-3E4E-4936-8A6C-22B44F6BB58E",
-            "pageType": "category",
-            "filters": {
-                "availability": {"instock": False, "build_to_order": False},
-                "attributes": {},
-                "platform_attributes": {},
-                "categories": {},
-                "ymm": {},
-                "shopByEngine": {}
-            },
-            "facets": ["availability", "brand"],
-            "page": 1,
-            "isDesktop": True,
-            "sort": "default"
-        }
-        headers = {
-            "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-            "X-Requested-With": "XMLHttpRequest",
-            "Accept": "application/json, text/javascript, */*; q=0.01",
-            "Origin": "https://www.holley.com",
-            "Referer": "https://www.holley.com/products/marine_and_powersports/small_engine/",
-            "Sec-Fetch-Site": "same-origin",
-            "Sec-Fetch-Mode": "cors",
-            "Sec-Fetch-Dest": "empty",
-            "Sec-GPC": "1",
-        }
+        async with AsyncSession(impersonate="chrome136") as session:
+
+            visit_response = await session.get(visit_url)
+            print("Visit status:", visit_response.status_code)
 
 
+            payload = {
+                "action": "filter_grid_search",
+                "guid": "E3F52F68-D3D2-44C9-8A7F-76D605923CDA",
+                "pageType": "category",
+                "filters": {
+                    "availability": {"instock": False, "build_to_order": False},
+                    "attributes": {},
+                    "platform_attributes": {},
+                    "categories": {},
+                    "ymm": {},
+                    "shopByEngine": {}
+                },
+                "facets": ["availability", "brand"],
+                "page": 1,
+                "isDesktop": True,
+                "sort": "default"
+            }
+
+            headers = {
+                "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+                "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+                "X-Requested-With": "XMLHttpRequest",
+                "Accept": "application/json, text/javascript, */*; q=0.01",
+                "Origin": "https://www.holley.com",
+                "Referer": visit_url,
+                "Sec-Fetch-Site": "same-origin",
+                "Sec-Fetch-Mode": "cors",
+                "Sec-Fetch-Dest": "empty",
+                "Sec-GPC": "1"
+            }
 
 
-        kwargs = {
-            "json": payload,
-            "headers": headers
-        }
+            encoded_payload = {"json": json.dumps(payload)}
+            response = await session.post(api_url, data=encoded_payload, headers=headers)
 
-        response = await self.request(session, "post", api_url, kwargs)
+            print("POST status:", response.status_code)
+            print("POST headers:", response.headers)
+            print("First 1000 characters of response:\n", response.text[:1000])
 
-        print("Response headers:", response.headers)
-        print("response text:", response.text)  
-
-        response.raise_for_status()
-
-        data = response.text 
-        response.raise_for_status()
-
-        html = response.text
-        soup = BeautifulSoup(html, "html.parser")
-
-        # Optional: parse products
-        products = soup.select(".product-info") 
-        return products
-
+            try:
+                data = response.json()
+                print("Parsed JSON keys:", list(data.keys()))
+            except Exception as e:
+                print("JSON parse error:", e)
         
 
 

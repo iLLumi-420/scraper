@@ -1,0 +1,34 @@
+{
+    "rows": [
+        {
+            "text": "NEW ARRIVALS",
+            "url": "https://etro.com/np-en/new-arrivals/",
+            "id": "np-en_new-arrivals"
+        },
+        {
+            "text": "WOMEN",
+            "url": "https://etro.com/np-en/women/",
+            "id": "np-en_women"
+        },
+        {
+            "text": "MEN",
+            "url": "https://etro.com/np-en/men/",
+            "id": "np-en_men"
+        },
+        {
+            "text": "BAGS",
+            "url": "https://etro.com/np-en/bags/",
+            "id": "np-en_bags"
+        },
+        {
+            "text": "GIFT GUIDE",
+            "url": "https://etro.com/np-en/gift-guide/",
+            "id": "np-en_gift-guide"
+        },
+        {
+            "text": "FASHION SHOWS",
+            "url": "https://etro.com/np-en/fashion-shows/",
+            "id": "np-en_fashion-shows"
+        }
+    ]
+}
