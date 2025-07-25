@@ -42,7 +42,7 @@ class EtroScraper(BaseScraper):
             print('NO ul')
             return
         a_tags = ul.find_all("a", class_="category-section-list-item")[:2]  #limiter cause too much data for test
-        
+
         if not a_tags:
             print("No a_tags found inside UL.")
             return rows
@@ -61,9 +61,9 @@ class EtroScraper(BaseScraper):
             if full_url not in seen_urls:
                 seen_urls.add(full_url)
                 rows.append({
+                    "id": a_id,
                     "text": text,
-                    "url": full_url,
-                    "id": a_id
+                    "url": full_url
                 })
                 print(f"{text} → {full_url}")
 
@@ -75,14 +75,18 @@ class EtroScraper(BaseScraper):
         seen_products = set()
         products = []
 
-        product_grid = soup.find("div", class_="productgrid")
+
+        h2_tags = soup.find_all("h2", class_="producttile-name")
  
-        if not product_grid:
-            print("No productgrid found.")
+        if not h2_tags:
+            print("Noh2_tags found.")
             return
         
-        for a_tag in product_grid.find_all("a", class_="producttile-gallery-inner"):
+        
+        for each_tag in h2_tags:
+            a_tag = each_tag.find("a")
             product_url = a_tag.get("href")
+            
             if not product_url:
                 continue
 
