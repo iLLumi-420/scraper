@@ -44,18 +44,18 @@ class NewScraper(BaseScraper):
         if not ul:
             print('NO ul')
             return
-        buttons = ul.find_all("button", class_="header-navigation-cta first-level")
-        if not buttons:
-            print("No buttons found inside UL.")
+        a_tags = ul.find_all("a", class_="category-section-list-item")
+        if not a_tags:
+            print("No a_tags found inside UL.")
             return rows
 
-        for button in buttons:
-            data_url = button.get("data-url")
-            text = button.text.strip()
-            btn_id = button.get("id")
+        for a_tag in a_tags:
+            data_url = a_tag.get("href")
+            text = a_tag.get_text(strip=True)
+            a_id = a_tag.get("data-clicktrigger-cat-id").lower()
 
             if not data_url:
-                print('No url for', button)
+                print('No URL for', a_tag)
                 continue
 
             full_url = urljoin(url, data_url)
@@ -65,18 +65,18 @@ class NewScraper(BaseScraper):
                 rows.append({
                     "text": text,
                     "url": full_url,
-                    "id": self.get_id_from_url(data_url)
+                    "id": a_id
                 })
                 print(f"{text} → {full_url}")
 
         return rows
 
     async def extract_products(self, url: str, data: Optional[dict] = None) -> dict:
-        print(url, data)
 
         soup = await self.get_soup(url)
         seen_products = set()
         products = []
+
         product_grid = soup.find("div", class_="productgrid")
  
         if not product_grid:
@@ -91,17 +91,14 @@ class NewScraper(BaseScraper):
             product_id = product_url.rstrip("/").split("/")[-1].replace(".html", "")
 
             parent = a_tag.find_parent("div", class_="producttile")
-            text = ""
-            if parent:
-                title_tag = parent.find("div", class_="producttitle-cover")
-                if title_tag:
-                    text = title_tag.get_text(strip=True)
+            text = a_tag.get_text(strip=True)
 
             products.append({
                 "id": product_id,
                 "text": text,
                 "url": product_url
             })
+        print(url, products)
         return products
 
 
@@ -114,7 +111,7 @@ class NewScraper(BaseScraper):
     
 async def main():
     scraper = NewScraper(url="https://www.etro.com/")
-    # await scraper.scrape_directory(tag="collections")
+    await scraper.scrape_directory(tag="collections")
 
     await scraper.scrape_directory(tag="products", parent_tag="collections")
 

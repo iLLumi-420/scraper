@@ -1,34 +1,374 @@
 {
     "rows": [
         {
-            "text": "NEW ARRIVALS",
-            "url": "https://etro.com/np-en/new-arrivals/",
-            "id": "np-en_new-arrivals"
+            "text": "Coats and Outerwear",
+            "url": "https://etro.com/np-en/women/clothing/coats-and-outerwear/",
+            "id": "woman_clothing_coats_and_outerwear"
         },
         {
-            "text": "WOMEN",
-            "url": "https://etro.com/np-en/women/",
-            "id": "np-en_women"
+            "text": "Capes and Ponchos",
+            "url": "https://etro.com/np-en/women/clothing/capes-and-ponchos/",
+            "id": "woman_clothing_capes_and_ponchos"
         },
         {
-            "text": "MEN",
-            "url": "https://etro.com/np-en/men/",
-            "id": "np-en_men"
+            "text": "Jackets",
+            "url": "https://etro.com/np-en/women/clothing/jackets/",
+            "id": "woman_clothing_jackets"
         },
         {
-            "text": "BAGS",
-            "url": "https://etro.com/np-en/bags/",
-            "id": "np-en_bags"
+            "text": "Dresses",
+            "url": "https://etro.com/np-en/women/clothing/dresses/",
+            "id": "woman_clothing_dresses"
         },
         {
-            "text": "GIFT GUIDE",
-            "url": "https://etro.com/np-en/gift-guide/",
-            "id": "np-en_gift-guide"
+            "text": "Shirts and Blouses",
+            "url": "https://etro.com/np-en/women/clothing/shirts-and-blouses/",
+            "id": "woman_clothing_shirts_and_blouses"
         },
         {
-            "text": "FASHION SHOWS",
-            "url": "https://etro.com/np-en/fashion-shows/",
-            "id": "np-en_fashion-shows"
+            "text": "Tops",
+            "url": "https://etro.com/np-en/women/clothing/tops/",
+            "id": "woman_clothing_tops"
+        },
+        {
+            "text": "Sweatshirts And T-shirts",
+            "url": "https://etro.com/np-en/women/clothing/sweatshirts-and-t-shirts/",
+            "id": "woman_clothing_sweatshirts_and_t-shirts"
+        },
+        {
+            "text": "Knitwear",
+            "url": "https://etro.com/np-en/women/clothing/knitwear/",
+            "id": "woman_clothing_knitwear"
+        },
+        {
+            "text": "Trousers",
+            "url": "https://etro.com/np-en/women/clothing/trousers/",
+            "id": "woman_clothing_trousers"
+        },
+        {
+            "text": "Skirts",
+            "url": "https://etro.com/np-en/women/clothing/skirts/",
+            "id": "woman_clothing_skirts"
+        },
+        {
+            "text": "Beachwear",
+            "url": "https://etro.com/np-en/women/clothing/beachwear/",
+            "id": "woman_clothing_beachwear"
+        },
+        {
+            "text": "Denim",
+            "url": "https://etro.com/np-en/women/clothing/denim/",
+            "id": "woman_clothing_denim"
+        },
+        {
+            "text": "See all",
+            "url": "https://etro.com/np-en/women/clothing/",
+            "id": "woman_clothing"
+        },
+        {
+            "text": "Shopping Bags",
+            "url": "https://etro.com/np-en/women/bags/shopping-bags/",
+            "id": "woman_bags_shopping_bags"
+        },
+        {
+            "text": "Shoulder Bags",
+            "url": "https://etro.com/np-en/women/bags/shoulder-bags/",
+            "id": "woman_bags_shoulder_bags"
+        },
+        {
+            "text": "Cross Body Bags",
+            "url": "https://etro.com/np-en/women/bags/cross-body-bags/",
+            "id": "woman_bags_cross_body_bags"
+        },
+        {
+            "text": "Bucket Bags",
+            "url": "https://etro.com/np-en/women/bags/bucket-bags/",
+            "id": "woman_bags_bucket_bags"
+        },
+        {
+            "text": "Handbags",
+            "url": "https://etro.com/np-en/women/bags/handbags/",
+            "id": "woman_bags_handbags"
+        },
+        {
+            "text": "Mini Bags",
+            "url": "https://etro.com/np-en/women/bags/mini-bags/",
+            "id": "woman_bags_mini_bags"
+        },
+        {
+            "text": "See all",
+            "url": "https://etro.com/np-en/women/bags/",
+            "id": "woman_bags"
+        },
+        {
+            "text": "Scarves and Silk",
+            "url": "https://etro.com/np-en/women/accessories/scarves-and-silk/",
+            "id": "woman_accessories_scarves_and_silks"
+        },
+        {
+            "text": "Belts",
+            "url": "https://etro.com/np-en/women/accessories/belts/",
+            "id": "woman_accessories_belts"
+        },
+        {
+            "text": "Fashion Jewellery",
+            "url": "https://etro.com/np-en/women/accessories/fashion-jewellery/",
+            "id": "woman_accessories_jewellery"
+        },
+        {
+            "text": "Hair Accessories",
+            "url": "https://etro.com/np-en/women/accessories/hair-accessories/",
+            "id": "woman_accessories_hair_accessories"
+        },
+        {
+            "text": "Hats and Gloves",
+            "url": "https://etro.com/np-en/women/accessories/hats-and-gloves/",
+            "id": "woman_accessories_hats_and_gloves"
+        },
+        {
+            "text": "Bag Accessories and Charms",
+            "url": "https://etro.com/np-en/women/accessories/bag-accessories-and-charms/",
+            "id": "woman_accessories_accessori_borse_portachiavi"
+        },
+        {
+            "text": "Socks and tights",
+            "url": "https://etro.com/np-en/women/accessories/socks-and-tights/",
+            "id": "woman_accessories_socks"
+        },
+        {
+            "text": "See all",
+            "url": "https://etro.com/np-en/women/accessories/",
+            "id": "woman_accessories"
+        },
+        {
+            "text": "Wallets and Credit Card Holder",
+            "url": "https://etro.com/np-en/women/small-leather-goods/wallets-and-credit-card-holder/",
+            "id": "woman_small_leather_goods_wallets_and_credit_card_holder"
+        },
+        {
+            "text": "Pouches",
+            "url": "https://etro.com/np-en/women/small-leather-goods/pouches/",
+            "id": "woman_small_leather_goods_pouches"
+        },
+        {
+            "text": "Other Accessories",
+            "url": "https://etro.com/np-en/women/small-leather-goods/other-accessories/",
+            "id": "woman_small_leather_goods_other_accessories"
+        },
+        {
+            "text": "See all",
+            "url": "https://etro.com/np-en/women/small-leather-goods/",
+            "id": "woman_small_leather_goods"
+        },
+        {
+            "text": "Boots and Ankle Boots",
+            "url": "https://etro.com/np-en/women/shoes/boots-and-ankle-boots/",
+            "id": "woman_shoes_boots_and_ankle_boots"
+        },
+        {
+            "text": "Court Shoes",
+            "url": "https://etro.com/np-en/women/shoes/court-shoes/",
+            "id": "woman_shoes_court_shoes"
+        },
+        {
+            "text": "Sneakers",
+            "url": "https://etro.com/np-en/women/shoes/sneakers/",
+            "id": "woman_shoes_sneakers"
+        },
+        {
+            "text": "Espadrilles and Wedges",
+            "url": "https://etro.com/np-en/women/shoes/espadrilles-and-wedges/",
+            "id": "woman_shoes_espadrilles_and_wedges"
+        },
+        {
+            "text": "Sandals and Clogs",
+            "url": "https://etro.com/np-en/women/shoes/sandals-and-clogs/",
+            "id": "woman_shoes_sandals"
+        },
+        {
+            "text": "See all",
+            "url": "https://etro.com/np-en/women/shoes/",
+            "id": "woman_shoes"
+        },
+        {
+            "text": "Coats and Outerwear",
+            "url": "https://etro.com/np-en/men/clothing/coats-and-outerwear/",
+            "id": "man_clothing_coats_and_outerwear"
+        },
+        {
+            "text": "Jackets",
+            "url": "https://etro.com/np-en/men/clothing/jackets/",
+            "id": "man_clothing_jackets"
+        },
+        {
+            "text": "Suits",
+            "url": "https://etro.com/np-en/men/clothing/suits/",
+            "id": "man_clothing_suits"
+        },
+        {
+            "text": "Shirts",
+            "url": "https://etro.com/np-en/men/clothing/shirts/",
+            "id": "man_clothing_shirts_m"
+        },
+        {
+            "text": "Polo Shirts",
+            "url": "https://etro.com/np-en/men/clothing/polo-shirts/",
+            "id": "man_clothing_polo_shirts"
+        },
+        {
+            "text": "Knitwear",
+            "url": "https://etro.com/np-en/men/clothing/knitwear/",
+            "id": "man_clothing_knitwear"
+        },
+        {
+            "text": "Trousers",
+            "url": "https://etro.com/np-en/men/clothing/trousers/",
+            "id": "man_clothing_trousers"
+        },
+        {
+            "text": "Beachwear",
+            "url": "https://etro.com/np-en/men/clothing/beachwear/",
+            "id": "man_clothing_beachwear"
+        },
+        {
+            "text": "Denim",
+            "url": "https://etro.com/np-en/men/clothing/denim/",
+            "id": "man_clothing_denim"
+        },
+        {
+            "text": "T-shirt and Sweatshirts",
+            "url": "https://etro.com/np-en/men/clothing/t-shirt-and-sweatshirts/",
+            "id": "man_clothing_t-shirt_sweatshirts"
+        },
+        {
+            "text": "See all",
+            "url": "https://etro.com/np-en/men/clothing/",
+            "id": "man_clothing"
+        },
+        {
+            "text": "Scarves",
+            "url": "https://etro.com/np-en/men/accessories/scarves/",
+            "id": "man_accessories_scarves"
+        },
+        {
+            "text": "Ties and Pocket Squares",
+            "url": "https://etro.com/np-en/men/accessories/ties-and-pocket-squares/",
+            "id": "man_accessories_ties_and_pocket_squares"
+        },
+        {
+            "text": "Belts",
+            "url": "https://etro.com/np-en/men/accessories/belts/",
+            "id": "man_accessories_belts"
+        },
+        {
+            "text": "Socks",
+            "url": "https://etro.com/np-en/men/accessories/socks/",
+            "id": "man_accessories_socks"
+        },
+        {
+            "text": "Hats",
+            "url": "https://etro.com/np-en/men/accessories/hats/",
+            "id": "man_accessories_hats"
+        },
+        {
+            "text": "See all",
+            "url": "https://etro.com/np-en/men/accessories/",
+            "id": "man_accessories"
+        },
+        {
+            "text": "Wallets and Credit Card Holder",
+            "url": "https://etro.com/np-en/men/small-leather-goods/wallets-and-credit-card-holder/",
+            "id": "man_small_leather_goods_wallets_and_credit_card_holder"
+        },
+        {
+            "text": "Necessaire and Pouches",
+            "url": "https://etro.com/np-en/men/small-leather-goods/necessaire-and-pouches/",
+            "id": "man_small_leather_goods_necessaire_and_pouches"
+        },
+        {
+            "text": "See all",
+            "url": "https://etro.com/np-en/men/small-leather-goods/",
+            "id": "man_small_leather_goods"
+        },
+        {
+            "text": "Backpacks and Belt Bags",
+            "url": "https://etro.com/np-en/men/bags/backpacks-and-belt-bags/",
+            "id": "man_bags_backpacks_and_belt_bags"
+        },
+        {
+            "text": "Shopping Bags",
+            "url": "https://etro.com/np-en/men/bags/shopping-bags/",
+            "id": "man_bags_shopping_bags"
+        },
+        {
+            "text": "Travel Bags",
+            "url": "https://etro.com/np-en/men/bags/travel-bags/",
+            "id": "man_bags_travel_bags"
+        },
+        {
+            "text": "Etro Arnica",
+            "url": "https://etro.com/np-en/men-bags-paisley-/",
+            "id": "man_bags_etro_essential"
+        },
+        {
+            "text": "Etro Vela",
+            "url": "https://etro.com/np-en/men/bags/etro-vela/",
+            "id": "man_bags_vela_bags"
+        },
+        {
+            "text": "See all",
+            "url": "https://etro.com/np-en/men/bags/",
+            "id": "man_bags"
+        },
+        {
+            "text": "Sneakers",
+            "url": "https://etro.com/np-en/men/shoes/sneakers/",
+            "id": "man_shoes_sneakers"
+        },
+        {
+            "text": "Lace-up Shoes",
+            "url": "https://etro.com/np-en/men/shoes/lace-up-shoes/",
+            "id": "man_shoes_lace_up_shoes"
+        },
+        {
+            "text": "Loafers",
+            "url": "https://etro.com/np-en/men/shoes/loafers/",
+            "id": "man_shoes_moccasins"
+        },
+        {
+            "text": "Boots",
+            "url": "https://etro.com/np-en/men/shoes/boots/",
+            "id": "man_shoes_boots"
+        },
+        {
+            "text": "Espadrilles",
+            "url": "https://etro.com/np-en/men/shoes/espadrilles/",
+            "id": "man_shoes_espadrilles"
+        },
+        {
+            "text": "Sandals and Clogs",
+            "url": "https://etro.com/np-en/men/shoes/sandals-and-clogs/",
+            "id": "man_shoes_sandals"
+        },
+        {
+            "text": "See all",
+            "url": "https://etro.com/np-en/men/shoes/",
+            "id": "man_shoes"
+        },
+        {
+            "text": "Gifts For Her",
+            "url": "https://etro.com/np-en/gift-guide/etro-gift-guide/gifts-for-her/",
+            "id": "gift_guide_for_her"
+        },
+        {
+            "text": "Gifts For Him",
+            "url": "https://etro.com/np-en/gift-guide/etro-gift-guide/gifts-for-him/",
+            "id": "gift_guide_for_him"
+        },
+        {
+            "text": "See all",
+            "url": "https://etro.com/np-en/gift-guide/etro-gift-guide/",
+            "id": "etro-gift-guide"
         }
     ]
 }
