@@ -18,12 +18,6 @@ class EtroScraper(BaseScraper):
         response.raise_for_status()
         return BeautifulSoup(response.text, "html.parser")
     
-    def get_id_from_url(self, url: str) -> str:
-        parsed = urlparse(url)
-        clean = parsed.netloc + parsed.path
-        clean = re.sub(r"[^\w\-\.]", "_", clean)
-        return clean.strip("_")
-
 
     async def directory(self, tag: str, parent_data: dict, data: dict | None = None) -> dict:
         if tag == "collections":
@@ -48,6 +42,7 @@ class EtroScraper(BaseScraper):
             print('NO ul')
             return
         a_tags = ul.find_all("a", class_="category-section-list-item")[:2]  #limiter cause too much data for test
+        
         if not a_tags:
             print("No a_tags found inside UL.")
             return rows
